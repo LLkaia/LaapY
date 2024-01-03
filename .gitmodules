@@ -9,10 +9,10 @@
 	path = Accessories
 	url = https://github.com/DenysMkl/Accessories.git
 	branch = feature/implement-parse
+[submodule "LaptopRater"]
+	path = LaptopRater
+	url = https://github.com/AVK1206/LaptopRater.git
 [submodule "auth_system"]
 	path = auth_system
 	url = https://github.com/yurakomarnitskyi/auth_system.git
 	branch = product_questions
-[submodule "LaptopRater"]
-	path = LaptopRater
-	url = https://github.com/AVK1206/LaptopRater.git

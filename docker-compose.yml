@@ -1,0 +1,22 @@
+services:
+  news-ms:
+    build: news-laptops-ms
+    container_name: news-ms
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongodb
+
+  mongodb:
+    image: mongodb/mongodb-community-server
+    container_name: mongodb
+  krakend:
+    image: devopsfaith/krakend:watch
+    container_name: krakend
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./krakend.json:/etc/krakend/krakend.json
+    command: [ "run", "-c", "krakend.json" ]
+    depends_on:
+      - news-ms
