@@ -1,0 +1,18 @@
+[submodule "news-laptops-ms"]
+	path = news-laptops-ms
+	url = https://github.com/LLkaia/news-laptops-ms
+[submodule "specs-micro"]
+	path = specs-micro
+	url = https://github.com/maksym-shulha/specs-micro.git
+	branch = issues-8-9
+[submodule "Accessories"]
+	path = Accessories
+	url = https://github.com/DenysMkl/Accessories.git
+	branch = feature/implement-parse
+[submodule "auth_system"]
+	path = auth_system
+	url = https://github.com/yurakomarnitskyi/auth_system.git
+	branch = product_questions
+[submodule "LaptopRater"]
+	path = LaptopRater
+	url = https://github.com/AVK1206/LaptopRater.git
