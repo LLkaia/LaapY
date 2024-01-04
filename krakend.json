@@ -37,7 +37,7 @@
             ]
         },
         {
-            "endpoint": "/{item_type}",
+            "endpoint": "/accessories/{item_type}",
             "input_query_strings": [
               "diagonal",
               "volume",
