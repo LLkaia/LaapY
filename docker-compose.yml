@@ -19,6 +19,16 @@ services:
     depends_on:
       - mongodb
 
+  rating_app:
+    networks:
+      - 'lappy_network'
+    build: LaptopRater/
+    restart: always
+    ports:
+      - "8002:8002"
+    depends_on:
+      - mongodb
+
   mongodb:
     image: mongodb/mongodb-community-server
     container_name: mongodb
