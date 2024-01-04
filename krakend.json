@@ -86,7 +86,7 @@
               "period"
           ]
       },
-              {
+      {
           "endpoint": "/news/{id}",
           "method": "GET",
           "backend": [
@@ -98,6 +98,23 @@
                   ]
               }
           ]
+      },
+      {
+            "endpoint": "/accessories/{item_type}",
+            "input_query_strings": [
+              "diagonal",
+              "volume",
+              "model",
+              "page_numb",
+              "page_size"
+            ],
+            "method": "GET",
+            "backend": [
+                {
+                    "url_pattern": "/{item_type}",
+                    "host": ["http://accessories:8002"]
+                }
+            ]
       }
   ],
   "port": 8080

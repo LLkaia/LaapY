@@ -19,6 +19,29 @@ services:
     depends_on:
       - mongodb
 
+  accessories:
+    build: Accessories/
+    container_name: lappy_accessories
+    ports:
+      - '8002:8002'
+    restart: always
+    networks:
+      - 'lappy_network'
+    depends_on:
+      - mongodb
+      -   accessories-parse
+
+  accessories-parse:
+    build:
+      context: Accessories/
+      dockerfile: DockerfileParse
+    ports:
+      - '8003:8003'
+    networks:
+      - 'lappy_network'
+    depends_on:
+      - mongodb
+
   mongodb:
     image: mongodb/mongodb-community-server
     container_name: mongodb
