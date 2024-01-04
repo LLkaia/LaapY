@@ -2,40 +2,103 @@
   "$schema": "https://www.krakend.io/schema/krakend.json",
   "version": 3,
   "name": "Lappy API Gateway",
-  "timeout": "3000ms",
   "cache_ttl": "300s",
+  "read_timeout": "20s",
+  "write_timeout": "20s",
+  "idle_timeout": "20s",
+  "timeout": "20s",
   "output_encoding": "json",
   "endpoints": [
-            {
-            "endpoint": "/laptops/{id}",
-            "method": "GET",
-            "output_encoding": "json",
-            "backend": [
-                {
-                    "url_pattern": "/api/items/{id}",
-                    "host": ["http://specs_micro:8001"]
-                }
-
-            ]
-        },
-        {
-            "endpoint": "/laptops",
-            "input_query_strings": [
-                "producer",
-                "series",
-                "cpu",
-                "gpu",
-                "displaysize",
-                "page"
-            ],
-            "method": "GET",
-            "backend": [
-                {
-                    "url_pattern": "/api/items",
-                    "host": ["http://specs_micro:8001"]
-                }
-            ]
-        }
+      {
+          "endpoint": "/laptops/{id}",
+          "method": "GET",
+          "output_encoding": "json",
+          "backend": [
+              {
+                  "url_pattern": "/api/items/{id}",
+                  "host": [
+                      "http://specs_micro:8001"
+                  ]
+              },
+              {
+                  "url_pattern": "/news/search?find={resp0_producer}+{resp0_model}",
+                  "method": "GET",
+                  "host": [
+                      "news-ms:8000"
+                  ],
+                  "input_query_strings": [
+                      "find"
+                  ],
+                  "deny": [
+                      "count"
+                  ],
+                  "mapping": {
+                      "results": "news"
+                  },
+                  "extra_config": {
+                      "modifier/lua-backend": {
+                          "pre": "local r = request.load(); link = r:url():gsub(' ', '+'); r:url(link);",
+                          "allow_open_libs": true
+                      }
+                  }
+              }
+          ],
+          "extra_config": {
+              "proxy": {
+                  "sequential": true
+              }
+          }
+      },
+      {
+          "endpoint": "/laptops",
+          "input_query_strings": [
+              "producer",
+              "series",
+              "cpu",
+              "gpu",
+              "displaysize",
+              "page"
+          ],
+          "method": "GET",
+          "backend": [
+              {
+                  "url_pattern": "/api/items",
+                  "host": ["http://specs_micro:8001"]
+              }
+          ]
+      },
+      {
+          "endpoint": "/news/search",
+          "method": "GET",
+          "backend": [
+              {
+                  "url_pattern": "/news/search",
+                  "method": "GET",
+                  "host": [
+                    "news-ms:8000"
+                  ]
+              }
+          ],
+          "input_query_strings": [
+              "find",
+              "page",
+              "limit",
+              "period"
+          ]
+      },
+              {
+          "endpoint": "/news/{id}",
+          "method": "GET",
+          "backend": [
+              {
+                  "url_pattern": "/news/{id}",
+                  "method": "GET",
+                  "host": [
+                    "news-ms:8000"
+                  ]
+              }
+          ]
+      }
   ],
   "port": 8080
 }
