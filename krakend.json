@@ -100,20 +100,21 @@
           ]
       },
       {
-            "endpoint": "/accessories/{item_type}",
-            "input_query_strings": [
+          "endpoint": "/accessories/{item_type}",
+          "input_query_strings": [
               "diagonal",
               "volume",
               "model",
               "page_numb",
               "page_size"
-            ],
-            "method": "GET",
-            "backend": [
-                {
-                    "url_pattern": "/{item_type}",
-                    "host": ["http://accessories:8002"]
-                }
+          ],
+          "method": "GET",
+          "backend": [
+              {
+                  "url_pattern": "/{item_type}",
+                  "host": ["http://accessories:8002"],
+                  "is_collection": true
+              }
             ]
       }
   ],
