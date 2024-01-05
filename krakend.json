@@ -2,13 +2,13 @@
   "$schema": "https://www.krakend.io/schema/krakend.json",
   "version": 3,
   "name": "Lappy API Gateway",
-  "timeout": "3000ms",
   "cache_ttl": "300s",
   "read_timeout": "20s",
   "write_timeout": "20s",
   "idle_timeout": "20s",
   "timeout": "20s",
   "output_encoding": "json",
+  "port": 8080,
   "endpoints": [
       {
           "endpoint": "/laptops/{id}",
@@ -150,8 +150,4 @@
       "input_query_strings": ["title", "rating"]
     }
   ]
-}
-      }
-  ],
-  "port": 8080
 }
