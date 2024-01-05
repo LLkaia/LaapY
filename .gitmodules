@@ -4,7 +4,6 @@
 [submodule "specs-micro"]
 	path = specs-micro
 	url = https://github.com/maksym-shulha/specs-micro.git
-	branch = issues-8-9
 [submodule "Accessories"]
 	path = Accessories
 	url = https://github.com/DenysMkl/Accessories.git
