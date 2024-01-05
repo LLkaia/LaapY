@@ -18,6 +18,15 @@ services:
       - 'lappy_network'
     depends_on:
       - mongodb
+  rating_app:
+    networks:
+      - 'lappy_network'
+    build: LaptopRater/
+    restart: always
+    ports:
+      - "8004:8004"
+    depends_on:
+      - mongodb
 
   accessories:
     build: Accessories/
