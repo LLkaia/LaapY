@@ -52,7 +52,7 @@ services:
     depends_on:
       - mongodb
 
-  auth_system:
+  auth-system:
     build: auth_system/
     container_name: auth_system
     ports:
