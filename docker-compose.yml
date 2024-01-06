@@ -18,6 +18,7 @@ services:
       - 'lappy_network'
     depends_on:
       - mongodb
+
   rating_app:
     networks:
       - 'lappy_network'
