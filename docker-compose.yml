@@ -92,20 +92,11 @@ services:
   mongodb:
     image: mongodb/mongodb-community-server
     container_name: mongodb
-    networks:
-      - 'lappy_network'
-  
-  mongorestore:
-    image: mongodb/mongodb-community-server
-    command: ["mongorestore --host mongodb --port 27017 --db laptops --collection specs /specs.bson"]
     volumes:
-      - ./data/mongorestore/specs.bson:/specs.bson
-    depends_on:
-      - mongodb
+      - ./data/mongo:/mongo
+    command: "mongo/init-mongo.sh"
     networks:
       - 'lappy_network'
-    entrypoint: ["/bin/sh", "-c"]
-    restart: "no"
 
   krakend:
     image: devopsfaith/krakend:watch
