@@ -9,9 +9,9 @@ services:
     networks:
       - 'lappy_network'
   
-  specs_micro:
+  specs-micro:
     build: specs-micro/
-    container_name: lappy_specs
+    container_name: lappy-specs
     ports:
       - '8001:8001'
     networks:
