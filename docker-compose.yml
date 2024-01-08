@@ -35,6 +35,8 @@ services:
     ports:
       - '8002:8002'
     restart: always
+    environment:
+      - MONGODB_URL=mongodb://mongodb/
     networks:
       - 'lappy_network'
     depends_on:
@@ -78,7 +80,7 @@ services:
       - 'lappy_network'
 
   mongodb:
-    image: mongodb/mongodb-community-server
+    image: mongodb/mongodb-community-server:4.4.18-ubuntu2004
     container_name: mongodb
     volumes:
       - ./data/mongo:/mongo
