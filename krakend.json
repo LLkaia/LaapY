@@ -244,6 +244,70 @@
             }
           ],
           "input_headers": ["Content-Length", "Content-Type"]
+        },
+        {
+            "endpoint": "/questions",
+            "input_query_strings": ["laptop_id"],
+            "method": "GET",
+            "backend": [
+                {
+                    "url_pattern": "/questions/",
+                    "method": "GET",
+                    "host": ["http://auth-system:8005"],
+                    "is_collection": true
+                }
+            ]
+        },
+        {
+            "endpoint": "/questions",
+            "output_encoding": "no-op",
+            "input_headers": ["Content-Type", "Content-Length", "Authorization"],
+            "method": "POST",
+            "backend": [
+                {
+                    "url_pattern": "/questions/",
+                    "encoding": "no-op",
+                    "method": "POST",
+                    "host": ["http://auth-system:8005"]
+                }
+            ]
+        },
+        {
+            "endpoint": "/favorites",
+            "input_headers": ["Cookie"],
+            "method": "GET",
+            "backend": [
+                {
+                    "url_pattern": "/favorites/",
+                    "method": "GET",
+                    "host": ["http://auth-system:8005"]
+                },
+                {
+                    "url_pattern": "/api/selected?ids={resp0_favorites}",
+                    "method": "GET",
+                    "host": ["http://specs-micro:8001"],
+                    "is_collection": true
+                }
+            ],
+            "extra_config": {
+                "proxy": {
+                    "sequential": true
+                }
+            }
+        },
+        {
+            "endpoint": "/favorites",
+            "output_encoding": "no-op",
+            "input_headers": ["Cookie", "Content-Type", "Content-Length"],
+            "method": "POST",
+            "backend": [
+                {
+                    "url_pattern": "/favorites/",
+                    "encoding": "no-op",
+                    "method": "POST",
+                    "host": ["http://auth-system:8005"]
+                }
+            ]
         }
   ]
 }
