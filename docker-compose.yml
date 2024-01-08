@@ -80,7 +80,7 @@ services:
       - 'lappy_network'
 
   mongodb:
-    image: mongodb/mongodb-community-server:4.4.18-ubuntu2004
+    image: mongodb/mongodb-community-server
     container_name: mongodb
     volumes:
       - ./data/mongo:/mongo
