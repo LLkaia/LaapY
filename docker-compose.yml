@@ -19,7 +19,7 @@ services:
     depends_on:
       - mongodb
 
-  rating_app:
+  rating-app:
     networks:
       - 'lappy_network'
     build: LaptopRater/
