@@ -39,18 +39,6 @@ services:
       - 'lappy_network'
     depends_on:
       - mongodb
-      -   accessories-parse
-
-  accessories-parse:
-    build:
-      context: Accessories/
-      dockerfile: DockerfileParse
-    ports:
-      - '8003:8003'
-    networks:
-      - 'lappy_network'
-    depends_on:
-      - mongodb
 
   auth-system:
     build: auth_system/

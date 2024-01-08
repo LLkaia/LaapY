@@ -12,4 +12,16 @@ mongoimport --host=localhost --port=27017 --db=lappy --collection=search_results
     grep -E '(document\(s\) imported successfully|document\(s\) failed to import)' | \
     tail -n 1
 
+mongoimport --host=localhost --port=27017 --db=lappy --collection=specs --file=/mongo/Cases.json 2>&1 | \
+    grep -E '(document\(s\) imported successfully|document\(s\) failed to import)' | \
+    tail -n 1
+
+mongoimport --host=localhost --port=27017 --db=lappy --collection=specs --file=/mongo/Disks.json 2>&1 | \
+    grep -E '(document\(s\) imported successfully|document\(s\) failed to import)' | \
+    tail -n 1
+
+mongoimport --host=localhost --port=27017 --db=lappy --collection=specs --file=/mongo/Headphones.json 2>&1 | \
+    grep -E '(document\(s\) imported successfully|document\(s\) failed to import)' | \
+    tail -n 1
+
 tail -f /dev/null
