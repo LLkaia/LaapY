@@ -23,7 +23,7 @@
               {
                   "url_pattern": "/api/items/{id}",
                   "host": [
-                      "http://specs_micro:8001"
+                      "http://specs-micro:8001"
                   ]
               },
               {
@@ -129,7 +129,7 @@
             "backend": [
                 {
                     "url_pattern": "/api/items",
-                    "host": ["http://specs_micro:8001"]
+                    "host": ["http://specs-micro:8001"]
                 }
             ]
         },
