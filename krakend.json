@@ -9,6 +9,11 @@
   "timeout": "20s",
   "output_encoding": "json",
   "port": 8080,
+  "extra_config": {
+      "auth/validator": {
+          "shared_cache_duration": 900
+      }
+  },
   "endpoints": [
       {
           "endpoint": "/laptops/{id}",
@@ -67,7 +72,17 @@
               "page",
               "limit",
               "period"
-          ]
+          ],
+          "extra_config": {
+              "auth/validator": {
+                  "alg": "RS256",
+                  "jwk_url": "http://auth-system:8005/jwk/",
+                  "cache": true,
+                  "disable_jwk_security": true,
+                  "cache_duration": 3600,
+                  "operation_debug": true
+              }
+          }
       },
       {
           "endpoint": "/news/{id}",
@@ -130,6 +145,105 @@
             }
           ],
           "input_query_strings": ["title", "rating"]
+        },
+
+        {
+          "endpoint": "/user/register",
+          "method": "POST",
+          "output_encoding": "no-op",
+          "backend": [
+            {
+                "url_pattern": "/auth/users/",
+                "method": "POST",
+                "host": ["http://auth-system:8005"],
+                "encoding": "no-op"
+            }
+          ],
+          "input_headers": ["Content-Length", "Content-Type"]
+        },
+        {
+          "endpoint": "/user/activate",
+          "method": "POST",
+          "output_encoding": "no-op",
+          "backend": [
+            {
+                "url_pattern": "/auth/users/activation/",
+                "method": "POST",
+                "host": ["http://auth-system:8005"],
+                "encoding": "no-op"
+            }
+          ],
+          "input_headers": ["Content-Length", "Content-Type"]
+        },
+        {
+          "endpoint": "/user/login",
+          "method": "POST",
+          "output_encoding": "no-op",
+          "backend": [
+            {
+                "url_pattern": "/auth/jwt/create/",
+                "method": "POST",
+                "host": ["http://auth-system:8005"],
+                "encoding": "no-op"
+            }
+          ],
+          "input_headers": ["Content-Length", "Content-Type"]
+        },
+        {
+          "endpoint": "/user/refresh",
+          "method": "POST",
+          "output_encoding": "no-op",
+          "backend": [
+            {
+                "url_pattern": "/auth/jwt/refresh/",
+                "method": "POST",
+                "host": ["http://auth-system:8005"],
+                "encoding": "no-op"
+            }
+          ],
+          "input_headers": ["Content-Length", "Content-Type"]
+        },
+        {
+          "endpoint": "/user/me/delete",
+          "method": "DELETE",
+          "output_encoding": "no-op",
+          "backend": [
+            {
+                "url_pattern": "/auth/users/me/",
+                "method": "DELETE",
+                "host": ["http://auth-system:8005"],
+                "encoding": "no-op"
+            }
+          ],
+          "input_headers": ["Content-Length", "Content-Type", "Authorization"]
+        },
+        {
+          "endpoint": "/user/me/reset-password",
+          "method": "POST",
+          "output_encoding": "no-op",
+          "backend": [
+            {
+                "url_pattern": "/auth/users/reset_password/",
+                "method": "POST",
+                "host": ["http://auth-system:8005"],
+                "encoding": "no-op"
+            }
+          ],
+          "input_headers": ["Content-Length", "Content-Type", "Authorization"]
+        },
+        {
+          "endpoint": "/user/me/reset-password/confirm",
+          "method": "POST",
+          "output_encoding": "no-op",
+          "backend": [
+            {
+                "url_pattern": "/auth/users/reset_password_confirm/",
+                "method": "POST",
+                "host": ["http://auth-system:8005"],
+                "encoding": "no-op"
+            }
+          ],
+          "input_headers": ["Content-Length", "Content-Type"]
         }
   ]
 }
