@@ -19,7 +19,7 @@ services:
     depends_on:
       - mongodb
 
-  rating_app:
+  rating-app:
     networks:
       - 'lappy_network'
     build: LaptopRater/
@@ -35,18 +35,8 @@ services:
     ports:
       - '8002:8002'
     restart: always
-    networks:
-      - 'lappy_network'
-    depends_on:
-      - mongodb
-      -   accessories-parse
-
-  accessories-parse:
-    build:
-      context: Accessories/
-      dockerfile: DockerfileParse
-    ports:
-      - '8003:8003'
+    environment:
+      - MONGODB_URL=mongodb://mongodb/
     networks:
       - 'lappy_network'
     depends_on:
