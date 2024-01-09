@@ -43,7 +43,7 @@
                   },
                   "extra_config": {
                       "modifier/lua-backend": {
-                          "pre": "local r = request.load(); link = r:url():gsub(' ', '+'); r:url(link);",
+                          "pre": "local r = request.load(); local link = r:url():gsub(' ', '+'); r:url(link);",
                           "allow_open_libs": true
                       }
                   }
@@ -108,7 +108,7 @@
                           "sources": [
                             "/etc/krakend/ratings.lua"
                           ],
-                          "pre": "local r = request.load(); link = r:url():gsub(' ', '+'); r:url(link);",
+                          "pre": "local r = request.load(); local link = r:url():gsub(' ', '+'); r:url(link);",
                           "post": "swapResponse()",
                           "allow_open_libs": true
                       }
