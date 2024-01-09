@@ -47,6 +47,72 @@
                           "allow_open_libs": true
                       }
                   }
+              },
+              {
+                  "url_pattern": "/cases?diagonal={resp0_displaysize}",
+                  "method": "GET",
+                  "host": [
+                      "http://accessories:8002"
+                  ],
+                  "input_query_strings": [
+                      "diagonal"
+                  ],
+                  "is_collection": true,
+                  "mapping": {
+                      "collection": "cases"
+                }
+              },
+              {
+                  "url_pattern": "/disks?volume={resp0_volume}",
+                  "method": "GET",
+                  "host": [
+                      "http://accessories:8002"
+                  ],
+                  "input_query_strings": [
+                      "volume"
+                  ],
+                  "is_collection": true,
+                  "mapping": {
+                      "collection": "disks"
+                  }
+              },
+              {
+                  "url_pattern": "/headphones?model={resp0_producer}",
+                  "method": "GET",
+                  "host": [
+                      "http://accessories:8002"
+                  ],
+                  "input_query_strings": [
+                      "model"
+                  ],
+                  "is_collection": true,
+                  "mapping": {
+                      "collection": "headphones"
+                  }
+              },
+              {
+                  "url_pattern": "/laptop_ratings?title={resp0_model}",
+                  "method": "GET",
+                  "host": [
+                      "http://rating_app:8004"
+                  ],
+                  "input_query_strings": [
+                      "title"
+                  ],
+                  "is_collection": true,
+                  "mapping": {
+                      "collection": "rating"
+                  },
+                  "extra_config": {
+                      "modifier/lua-backend": {
+                          "sources": [
+                            "/etc/krakend/ratings.lua"
+                          ],
+                          "pre": "local r = request.load(); link = r:url():gsub(' ', '+'); r:url(link);",
+                          "post": "swapResponse()",
+                          "allow_open_libs": true
+                      }
+                  }
               }
           ],
           "extra_config": {
