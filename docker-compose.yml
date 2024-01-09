@@ -95,6 +95,7 @@ services:
       - "8080:8080"
     volumes:
       - ./krakend.json:/etc/krakend/krakend.json
+      - ./ratings.lua:/etc/krakend/ratings.lua
     command: [ "run", "-c", "krakend.json" ]
     depends_on:
       - news-ms

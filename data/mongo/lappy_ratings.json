@@ -1,0 +1,1648 @@
+{"_id":{"$oid":"659c1a975f80f4f0b802ac96"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac97"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac98"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac99"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac9a"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac9b"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac9c"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac9d"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac9e"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ac9f"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca0"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca1"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca2"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca3"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca4"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca5"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca6"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca7"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca8"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aca9"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acaa"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acab"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acac"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acad"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acae"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acaf"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb0"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb1"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb2"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb3"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb4"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb5"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb6"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb7"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb8"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acb9"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acba"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acbb"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acbc"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acbd"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acbe"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acbf"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc0"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc1"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc2"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc3"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc4"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc5"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc6"},"title":"","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc7"},"title":"","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc8"},"title":"HP OMEN Laptop 16-wd0002ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acc9"},"title":"Note/14'-16' ACER Enduro Urban N3 EUN314A-51W-558Z","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acca"},"title":"LENOVO IdeaPad 3 15ITL6","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802accb"},"title":"ASUS TUF Gaming A17 FA707NU-HX023 Jaeger Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802accc"},"title":"APPLE A2337 MacBook Air 13 'M1 256GB Space Grey 2020","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802accd"},"title":"LENOVO Legion Slim 5 16IRH8 Misty Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acce"},"title":"DREAM MACHINES RG4050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802accf"},"title":"ASUS Vivobook 15 X1504ZA-BQ066 Cool Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd0"},"title":"ACER Aspire 5 A515-58M-34K8 Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd1"},"title":"DREAM MACHINES RG4050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd2"},"title":"Lenovo IdeaPad 3 15ITL6 Sand","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd3"},"title":"HP ENVY x360 15-fh0005ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd4"},"title":"HUAWEI MateBook D 16 RolleF-W5651D 2022 Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd5"},"title":"ACER Nitro 5 AN517-55-5585 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd6"},"title":"DREAM MACHINES RG4050-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd7"},"title":"ACER Aspire 5 A515-48M Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd8"},"title":"APPLE A2337 MacBook Air 13' M1 256GB Silver 2020","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acd9"},"title":"APPLE A2337 MacBook Air 13' M1 256GB Gold 2020","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acda"},"title":"Lenovo IdeaPad Slim 3 15AMN8 Arctic Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acdb"},"title":"Apple MacBook Air 13.6\" M2 256GB 2022 Midnight","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acdc"},"title":"ACER Swift 1 SF114-34-C41R Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acdd"},"title":"Lenovo IdeaPad 5 15ABA7 Graphite Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acde"},"title":"LENOVO IP5 15ABA7 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acdf"},"title":"ACER Nitro 17 AN17-41-R4YT Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace0"},"title":"Dream Machines RG4060-17 Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace1"},"title":"LENOVO IdeaPad 1 15AMN7 Cloud Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace2"},"title":"HP Pavilion 15-eh1104ua Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace3"},"title":"ASUS VivoBook 15 X1500EA-BQ3352 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace4"},"title":"ASUS PRO ExpertBook B5302CEA-L50742R Star Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace5"},"title":"ACER Nitro 5 AN517-55-59HX Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace6"},"title":"DREAM MACHINES RG3050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace7"},"title":"ASUS Zenbook UX3402ZA-KM411W Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace8"},"title":"APPLE A2681 MacBook Air 13' M2 256GB Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ace9"},"title":"ACER Aspire 5 A515-57-534Z Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acea"},"title":"Lenovo IdeaPad 5 Pro 16IAH7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aceb"},"title":"HP 15s-eq2060ua Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acec"},"title":"Asus Vivobook 14X K3405VF-LY068 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aced"},"title":"APPLE MacBook Air M2 256 Gb Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acee"},"title":"ASUS Vivobook 15 X1504ZA-BQ065 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acef"},"title":"ASUS Vivobook 14X K3405VF-LY069 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf0"},"title":"HP 15s-eq1043ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf1"},"title":"ACER Nitro 5 AN515-46-R1SB Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf2"},"title":"LENOVO ThinkBook 15 Mineral Gray","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf3"},"title":"LENOVO Legion 5 Pro 16ARH7H Glacier White","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf4"},"title":"ACER Aspire 3 A315-58-31U3 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf5"},"title":"ACER Aspire 5 A515-45-R5P2 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf6"},"title":"ASUS Vivobook Pro 15 OLED M6500QB-L1011 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf7"},"title":"APPLE A2681 MacBook Air 13' M2 256GB Starlight","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf8"},"title":"Lenovo IdeaPad 3 15ITL6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acf9"},"title":"ASUS Vivobook Pro 15 OLED M6500QC-L1090 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acfa"},"title":"APPLE MacBook Pro M2 Pro 16' 512GB Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acfb"},"title":"Acer Nitro 5 AN515-58-70RP Obsidian Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acfc"},"title":"HP Victus 16-e1018ua Mica silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acfd"},"title":"LENOVO LOQ 15IRH8 Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acfe"},"title":"APPLE MacBook Air 15' M2 256GB Midnight","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802acff"},"title":"APPLE MacBook Air 15 'M2 256GB Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad00"},"title":"Lenovo IdeaPad Gaming 3 IPG3-15IHU6 Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad01"},"title":"ACER Aspire 3 A315-56-33RX Shale Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad02"},"title":"ASUS Vivobook Pro K6500ZC-MA301 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad03"},"title":"ASUS Laptop X515EA-BQ1190 Slate Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad04"},"title":"ASUS Zenbook 14 UM425 UM425QA-KI251 Pine Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad05"},"title":"LENOVO IdeaPad 1 15IGL7 Cloud Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad06"},"title":"ASUS X515EA-EJ1742 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad07"},"title":"APPLE MacBook Pro M2 256GB Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad08"},"title":"ACER Swift 3 SF314-511-524U Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad09"},"title":"Lenovo IdeaPad 3 15ALC6 Arctic Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad0a"},"title":"APPLE MacBook Air 15' M2 256GB Starlight","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad0b"},"title":"ACER Nitro 5 AN515-57-765K Shale Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad0c"},"title":"ASUS Laptop M515DA-BQ1255 Slate Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad0d"},"title":"ASUS ZenBook S UX393EA-HK019T Jade Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad0e"},"title":"ACER Swift 3 SF314-43-R2DX Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad0f"},"title":"Lenovo Legion Pro 5 16IRX8 Onyx Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad10"},"title":"APPLE MacBook Air 15' M2 256GB Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad11"},"title":"DREAM MACHINES RG2050-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad12"},"title":"DREAM MACHINES RG2050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad13"},"title":"DREAM MACHINES RG2050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad14"},"title":"DREAM MACHINES RG2050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad15"},"title":"ACER Swift Go 14 SFG14-71 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad16"},"title":"ACER Swift Go 14 SFG14-71 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad17"},"title":"ACER Predator Helios 16 PH16-71 Abyss Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad18"},"title":"ACER Aspire 5 A517-58GM Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad19"},"title":"HP ProBook 455 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad1a"},"title":"HP ProBook 455 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad1b"},"title":"HP ProBook 455 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad1c"},"title":"HP ProBook 455 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad1d"},"title":"HP ProBook 450 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad1e"},"title":"HP 250 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad1f"},"title":"HP 250 G9 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad20"},"title":"HP 250 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad21"},"title":"ACER Aspire 5 A517-58GM-57NB Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad22"},"title":"DREAM MACHINES RG4060-17","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad23"},"title":"DREAM MACHINES RG4050-17","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad24"},"title":"DREAM MACHINES RG4050-17","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad25"},"title":"DREAM MACHINES RG4050-15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad26"},"title":"HP ProBook 450 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad27"},"title":"DREAM MACHINES RG4050-15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad28"},"title":"HP ProBook 445 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad29"},"title":"DREAM MACHINES RG4050-15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad2a"},"title":"HP EliteBook 650 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad2b"},"title":"DREAM MACHINES RG3050-15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad2c"},"title":"HP EliteBook 630 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad2d"},"title":"HP EliteBook 630 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad2e"},"title":"DREAM MACHINES RG2050-17","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad2f"},"title":"HP 470 G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad30"},"title":"HP 470 G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad31"},"title":"HP 255 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad32"},"title":"HP 15s-fq5021ua Natural silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad33"},"title":"HP Victus 16-r0009ua Performance Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad34"},"title":"Lenovo ThinkPad P16v Gen 1 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad35"},"title":"LENOVO ThinkBook 16p G4 IRH Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad36"},"title":"LENOVO ThinkBook 16p G4 IRH Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad37"},"title":"DREAM MACHINES RT3050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad38"},"title":"DREAM MACHINES RG4070-17","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad39"},"title":"DREAM MACHINES RG4070-17","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad3a"},"title":"HP 255 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad3b"},"title":"HP 255 G9 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad3c"},"title":"HP 255 G9 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad3d"},"title":"HP 255 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad3e"},"title":"HP 250 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad3f"},"title":"HP 250 G9 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad40"},"title":"HP 250 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad41"},"title":"HP 250 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad42"},"title":"LENOVO ThinkPad T14 G4 R Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad43"},"title":"LENOVO ThinkPad T14 AMD G4 R Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad44"},"title":"ASUS Vivobook 16X K3604VA-MB095 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad45"},"title":"ASUS Expertbook B1 B1502CBA-BQ2604X Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad46"},"title":"ASUS Expertbook B1 B1502CBA-BQ2603 Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad47"},"title":"ASUS Expertbook B1 B1502CBA-BQ0494XA Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad48"},"title":"ASUS Vivobook Go 15 E1504FA-BQ534 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad49"},"title":"HP Probook 450-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad4a"},"title":"HP Probook 450-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad4b"},"title":"HP Probook 440-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad4c"},"title":"HP Probook 440-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad4d"},"title":"HP Probook 440-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad4e"},"title":"HP Probook 440-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad4f"},"title":"HP Probook 440-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad50"},"title":"HP Probook 440-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad51"},"title":"HP 470 G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad52"},"title":"DREAM MACHINES RG4060-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad53"},"title":"DREAM MACHINES RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad54"},"title":"DREAM MACHINES RG4050-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad55"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad56"},"title":"DREAM MACHINES RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad57"},"title":"Lenovo ThinkBook 16 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad58"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad59"},"title":"ASUS Vivobook Pro 15 M6500XU-LP018 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad5a"},"title":"HP ProBook 455 G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad5b"},"title":"HP ProBook 450 G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad5c"},"title":"HP ProBook 450 G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad5d"},"title":"HP ProBook 450 G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad5e"},"title":"HP ProBook 450 G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad5f"},"title":"HP ProBook 450 G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad60"},"title":"ASUS Vivobook S 16 Flip TP3604VA-MC160W Midnight Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad61"},"title":"ACER Swift 3 SF314-512 Haze Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad62"},"title":"ACER Swift 3 SF314-512 Haze Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad63"},"title":"ACER Swift Go 16 SFG16-71 Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad64"},"title":"ASUS Vivobook 15 OLED X1505ZA-L1261 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad65"},"title":"Lenovo ThinkPad E16 AMD G1 T","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad66"},"title":"Lenovo IdeaPad Flex5 14IAU7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad67"},"title":"ASUS Vivobook 15X OLED K3504ZA-MA284 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad68"},"title":"LENOVO IdeaPad 1 15ADA7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad69"},"title":"LENOVO IdeaPad Slim 5 14ABR8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad6a"},"title":"Lenovo ThinkPad L15 G4 T Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad6b"},"title":"Lenovo ThinkPad T14s G4 R Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad6c"},"title":"LENOVO ThinkPad T14 G4 R Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad6d"},"title":"LENOVO V15 G4 IAH Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad6e"},"title":"Lenovo V15 G4 AMN Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad6f"},"title":"ASUS Vivobook 17 X1704VA-AU090 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad70"},"title":"Lenovo IdeaPad Slim 5 16IRL8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad71"},"title":"Lenovo ThinkPad T14s G4 R Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad72"},"title":"ASUS Vivobook 15 X1502ZA-BQ1209 Icelight Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad73"},"title":"Lenovo IdeaPad 1 15IAU7 Abyss Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad74"},"title":"ACER Aspire 5 A515-57-567T Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad75"},"title":"HP Probook 455-G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad76"},"title":"Lenovo ThinkPad L14 G4 T Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad77"},"title":"HP Probook 450-G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad78"},"title":"Lenovo ThinkPad L15 Gen 4 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad79"},"title":"ASUS Vivobook 16X K3605ZF-N1310 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad7a"},"title":"Lenovo ThinkPad T14 Gen 4 Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad7b"},"title":"ASUS TUF Gaming A17 FA707XI-LL036 Jaeger Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad7c"},"title":"ASUS BR1402CGA-EB0019XA Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad7d"},"title":"HP ProBook 445 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad7e"},"title":"HP 470 G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad7f"},"title":"HP 470 G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad80"},"title":"ACER Aspire 5 A515-58M Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad81"},"title":"Lenovo ThinkPad L14 G4 T Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad82"},"title":"HP ProBook 450 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad83"},"title":"HP ProBook 445 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad84"},"title":"ASUS Vivobook S 14 Flip TP3402VA-LZ202W Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad85"},"title":"ASUS Vivobook 17 X1704ZA-AU235 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad86"},"title":"ASUS Vivobook 17 X1704VA-AU210 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad87"},"title":"ACER Nitro 17 AN17-71 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad88"},"title":"ACER Nitro 5 AN517-55 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad89"},"title":"ACER Nitro 17 AN17-41 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad8a"},"title":"ACER Nitro 17 AN17-41 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad8b"},"title":"ACER Aspire 5 A515-57 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad8c"},"title":"ACER Aspire 7 A715-76G Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad8d"},"title":"ACER Aspire 7 A715-76G Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad8e"},"title":"2E Imaginary 15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad8f"},"title":"LENOVO V15 G4 IAH Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad90"},"title":"LENOVO V15 G4 IAH Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad91"},"title":"Lenovo IdeaPad 3 15IAU7 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad92"},"title":"Lenovo IdeaPad Slim 5 16IAH8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad93"},"title":"LENOVO LOQ 15IRH8 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad94"},"title":"LENOVO IdeaPad 1 15IAU7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad95"},"title":"HP Probook 445-G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad96"},"title":"LENOVO V15 G4 IAH Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad97"},"title":"LENOVO V15 G4 IAH Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad98"},"title":"LENOVO V15 G4 IAH Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad99"},"title":"HP Probook 440-G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad9a"},"title":"LENOVO V15 G4 IAH Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad9b"},"title":"HP Probook 440-G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad9c"},"title":"LENOVO ThinkBook 16-G6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad9d"},"title":"LENOVO ThinkBook 16-G6 Arctic Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad9e"},"title":"LENOVO ThinkBook 14-G6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ad9f"},"title":"HP 250-G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada0"},"title":"HP 250-G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada1"},"title":"HP 250-G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada2"},"title":"HP 250-G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada3"},"title":"HP 15-fd0023ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada4"},"title":"HP 15-fd0003ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada5"},"title":"LENOVO IdeaPad 3 15ITL6 Sand","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada6"},"title":"LENOVO IdeaPad 3 15ITL6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada7"},"title":"Lenovo IdeaPad Gaming 3 15ARH7 Onyx Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada8"},"title":"ASUS Vivobook 15 OLED X1505VA-L1233 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ada9"},"title":"ASUS Zenbook 14 OLED UX3402VA-KM004W Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adaa"},"title":"ASUS Vivobook S 16 Flip TP3604VA-MC161W Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adab"},"title":"HP 15-fd0002ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adac"},"title":"ASUS Vivobook Pro 15 M6500XU-LP017 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adad"},"title":"HP Spectre x360 14-ef2000ua Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adae"},"title":"ASUS Vivobook 15 M1502YA-BQ206 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adaf"},"title":"ASUS Vivobook 15 M1502YA-BQ204 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb0"},"title":"ASUS Vivobook 15 M1502YA-BQ112 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb1"},"title":"HP Probook 455-G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb2"},"title":"HP Probook 455-G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb3"},"title":"HP Probook 450-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb4"},"title":"HP Probook 445-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb5"},"title":"HP Probook 445-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb6"},"title":"HP Probook 445-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb7"},"title":"HP Probook 450-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb8"},"title":"HP Probook 450-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adb9"},"title":"LENOVO V15 G4 IAH Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adba"},"title":"Lenovo ThinkPad E16 AMD G1 T Graphite Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adbb"},"title":"Lenovo ThinkPad E16 AMD G1 T Graphite Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adbc"},"title":"HP Probook 440 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adbd"},"title":"LENOVO Legion Slim 5 16IRH8 Misty Gray","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802adbe"},"title":"HP Pavilion Plus 14-eh1007ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adbf"},"title":"HP EliteBook 840 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc0"},"title":"HP EliteBook 840 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc1"},"title":"HP EliteBook 840 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc2"},"title":"HP Pavilion Aero 13-be2003ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc3"},"title":"HP Pavilion Aero 13-be2002ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc4"},"title":"DREAM MACHINES RT4060-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc5"},"title":"DREAM MACHINES RT4050-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc6"},"title":"DREAM MACHINES RT4050-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc7"},"title":"HP Pavilion x360 14-ek1003ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc8"},"title":"HP Pavilion x360 14-ek1000ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adc9"},"title":"DREAM MACHINES RT4050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adca"},"title":"DREAM MACHINES RG4050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adcb"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adcc"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adcd"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adce"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adcf"},"title":"LENOVO IdeaPad 1 15IGL7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add0"},"title":"DREAM MACHINES RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add1"},"title":"DREAM MACHINES RG4050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add2"},"title":"ACER Aspire 3 A315-59 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add3"},"title":"ACER Aspire 3 A315-59 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add4"},"title":"ASUS Vivobook 17X M3704YA-AU029 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add5"},"title":"GIGABYTE G6 КF","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add6"},"title":"ACER Aspire 3 A315-58 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add7"},"title":"ACER Aspire 3 A315-24P Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add8"},"title":"HP Pavilion Plus 14-eh1011ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802add9"},"title":"HP ENVY 17-cw0006ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adda"},"title":"HP ENVY 17-cw0005ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802addb"},"title":"HP ENVY 17-cw0004ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802addc"},"title":"HP ENVY 17-cw0000ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802addd"},"title":"HP ENVY 16-h1006ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adde"},"title":"Asus Vivobook Pro 15 OLED K6502VJ-MA084 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802addf"},"title":"HP ENVY 16-h1003ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade0"},"title":"Asus Vivobook Pro 15 OLED K6502VU-MA003 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade1"},"title":"HP ENVY 16-h1001ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade2"},"title":"HP ENVY x360 15-fh0002ua Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade3"},"title":"HP ENVY x360 15-fh0001ua Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade4"},"title":"HP ENVY x360 13-bf0008ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade5"},"title":"IdeaPad Slim 5 14IRL8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade6"},"title":"IdeaPad Slim 5 14ABR8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade7"},"title":"HP Pavilion Plus 14-eh1010ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade8"},"title":"HP Pavilion Plus 14-eh1009ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ade9"},"title":"HP Spectre x360 14-ef2003ua Nocturne Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adea"},"title":"HP Spectre x360 14-ef2002ua Nocturne Вlue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adeb"},"title":"HP 255 G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adec"},"title":"HP 255 G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aded"},"title":"HP 255 G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adee"},"title":"LENOVO Yoga Pro 9 16IRP8 Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adef"},"title":"LENOVO IdeaPad 1 14IGL7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf0"},"title":"HP 255-G9 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf1"},"title":"HP Pavilion x360 14-ek0014ua Pale Golden Rose","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf2"},"title":"HP Pavilion Plus 14-eh1008ua Space Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf3"},"title":"HP Pavilion Aero 13-be2001ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf4"},"title":"HP Pavilion Aero 13-be2000ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf5"},"title":"HP ENVY 17-cw0007ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf6"},"title":"HP ENVY 17-cw0003ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf7"},"title":"HP ENVY 17-cw0002ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf8"},"title":"LENOVO ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adf9"},"title":"Lenovo ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adfa"},"title":"Lenovo V15 G4 AMN Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adfb"},"title":"Lenovo V15 G4 AMN Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adfc"},"title":"Lenovo V15 G4 AMN Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adfd"},"title":"Lenovo V15 G4 AMN Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adfe"},"title":"Gigabyte G6 KF 2023 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802adff"},"title":"LENOVO ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae00"},"title":"Lenovo ThinkBook 16 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae01"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae02"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae03"},"title":"Lenovo ThinkPad E16 Gen 1 Graphite Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae04"},"title":"HP 255 G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae05"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae06"},"title":"HP 255 G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae07"},"title":"HP 17-CN3020ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae08"},"title":"HP 255-G9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae09"},"title":"Lenovo V17 G4 IRU Iron Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae0a"},"title":"Lenovo V17 G4 IRU Iron Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae0b"},"title":"HP 255-G10 Вlack","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae0c"},"title":"HP 250-G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae0d"},"title":"Lenovo V15 G4 AMN Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae0e"},"title":"Asus Vivobook 17X K1703ZA-AU142 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae0f"},"title":"Asus Vivobook S 15 OLED K5504VA-L1118WS Solar Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae10"},"title":"Asus Vivobook S 15 OLED K3502ZA-L1531 Brave Green","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae11"},"title":"HP ENVY x360 15-fh0000ua Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae12"},"title":"HP ENVY x360 13-bf0004ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae13"},"title":"HP 15-fc0006ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae14"},"title":"HP 15-fc0005ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae15"},"title":"HP 15-fc0004ua Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae16"},"title":"HP 15-fc0003ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae17"},"title":"HP 250 G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae18"},"title":"HP 250 G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae19"},"title":"HP 250 G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae1a"},"title":"HP 250-G9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae1b"},"title":"HP 250-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae1c"},"title":"HP 250-G9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae1d"},"title":"HP 15-fc0002ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae1e"},"title":"HP 250-G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae1f"},"title":"HP Probook 470-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae20"},"title":"HP 250-G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae21"},"title":"HP Probook 470-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae22"},"title":"HP Probook 470-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae23"},"title":"HP Probook 470-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae24"},"title":"HP 15s-fq2004ua Jet Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae25"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae26"},"title":"HP 15-fd0022ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae27"},"title":"HP 15-fd0017ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae28"},"title":"HP 15-fd0001ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae29"},"title":"HP Probook 440-G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae2a"},"title":"HP Pavilion 15-eg3011ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae2b"},"title":"HP Pavilion 15-eg3002ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae2c"},"title":"HP Pavilion 15-eg3017ua Fog Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae2d"},"title":"HP Pavilion 15-eg3001ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae2e"},"title":"HP Pavilion 15-eg2017ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae2f"},"title":"HP Pavilion 15-eg3015ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae30"},"title":"HP Pavilion 15-eg2013ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae31"},"title":"HP Pavilion x360 14-ek0015ua Space Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae32"},"title":"HP Pavilion 15-eg3014ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae33"},"title":"HP Pavilion 15-eg3012ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae34"},"title":"LENOVO Yoga Pro 7 14APH8 Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae35"},"title":"LENOVO Yoga Pro 9 16IRP8 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae36"},"title":"LENOVO Legion Slim 5 16IRH8 Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae37"},"title":"Lenovo Legion Pro 7 16IRX8H Onyx Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae38"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae39"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae3a"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae3b"},"title":"Lenovo ThinkBook 14 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae3c"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae3d"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae3e"},"title":"LENOVO V17 G4 IRU Iron Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae3f"},"title":"LENOVO V17 G4 IRU Iron Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae40"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae41"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae42"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae43"},"title":"HP ENVY x360 13-bf0003ua Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae44"},"title":"HP ENVY x360 13-bf0006ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae45"},"title":"GIGABYTE G5 MF Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae46"},"title":"ASUS Vivobook 16X OLED M3604YA-L2087 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae47"},"title":"ASUS Vivobook S 15 K3502ZA-BQ407 Brave Green","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae48"},"title":"2E Complex Pro 17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae49"},"title":"Lenovo ThinkPad X1 Carbon Gen 11 Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae4a"},"title":"Lenovo ThinkPad T14 Gen 4 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae4b"},"title":"Lenovo ThinkPad P16v Gen 1 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae4c"},"title":"HP ENVY 17-cw0001ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae4d"},"title":"Asus Vivobook 16 X1605VA-MB234 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae4e"},"title":"ASUS Vivobook 15 X1502ZA-BQ1207 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae4f"},"title":"Asus Vivobook S 14 Flip TP3402VA-LZ203W Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae50"},"title":"Lenovo IdeaPad 3 15IAU7 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae51"},"title":"ACER TravelMate P2 16 TMP216-51-52JP Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae52"},"title":"Ноутубук ACER Aspire 5 A515-56-719F Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae53"},"title":"ACER Aspire 5 A515-56-53SD Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae54"},"title":"ACER Aspire 3 A315-58-78CW Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae55"},"title":"HP Laptop 17-CN2017ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae56"},"title":"HP Laptop 15s-fq5036ua Snow Flake White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae57"},"title":"HP Laptop 15s-5035ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae58"},"title":"ASUS X712EA-BX868 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae59"},"title":"HP Laptop 15s-fq5034ua Pale Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae5a"},"title":"LENOVO IdeaPad Slim 5 16ABR8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae5b"},"title":"HP Laptop 15s-fq5033ua Spruce Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae5c"},"title":"HP 15-fd0079ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae5d"},"title":"HP 15-fd0078ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae5e"},"title":"ASUS E1504GA-BQ114 Mixed Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae5f"},"title":"HP 15-fd0077ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae60"},"title":"HP 15-fd0076ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae61"},"title":"HP 15-fd0075ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae62"},"title":"HP 15-fd0074ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae63"},"title":"HP 15-fd0073ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae64"},"title":"HP 15-fd0072ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae65"},"title":"ACER TravelMate P2 TMP215-53-561K Shale Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae66"},"title":"ACER TravelMate P2 TMP215-53-35B5 Shale Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae67"},"title":"ACER TravelMate P2 16 TMP216-51G-70YX Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae68"},"title":"ACER TravelMate P2 16 TMP216-51-725P Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae69"},"title":"HP 15-fd0071ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae6a"},"title":"HP 15-fd0070ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae6b"},"title":"HP ZBook Firefly G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae6c"},"title":"HP ZBook Firefly G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae6d"},"title":"HP ZBook Firefly 16 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae6e"},"title":"HP ZBook Fury 16 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae6f"},"title":"HP ZBook Fury 16 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae70"},"title":"HP Laptop 14-ep0023ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae71"},"title":"HP ZBook Fury 16 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae72"},"title":"HP Laptop 14-ep0022ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae73"},"title":"HP ZBook Fury 16 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae74"},"title":"DREAM MACHINES RT4060-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae75"},"title":"DREAM MACHINES RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae76"},"title":"DREAM MACHINES RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae77"},"title":"DREAM MACHINES RT4050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae78"},"title":"HP Pavilion Plus 14-eh1013ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae79"},"title":"HP Pavilion Plus 14-eh1012ua Natural silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae7a"},"title":"Lenovo IdeaPad Slim 5 16ABR8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae7b"},"title":"DREAM MACHINES RG4050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae7c"},"title":"HP ZBook Studio G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae7d"},"title":"HP Laptop 14-EM0021ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae7e"},"title":"HP ZBook Studio G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae7f"},"title":"HP ZBook Studio G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae80"},"title":"HP Laptop 14-EM0020ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae81"},"title":"HP ZBook Studio G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae82"},"title":"ACER Aspire 3 15 A315-24P-R1L6 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae83"},"title":"HP Laptop 14-EM0019ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae84"},"title":"ACER TravelMate P2 TMP215-54 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae85"},"title":"HP ZBook Power G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae86"},"title":"ACER Aspire 3 15 A315-24P-R1A0 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae87"},"title":"HP Laptop 17-CP2010ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae88"},"title":"HP Laptop 17-CP2009ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae89"},"title":"HP Laptop 14-EM0018ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae8a"},"title":"HP Laptop 17-CP2008ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae8b"},"title":"HP Laptop 14-EM0017ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae8c"},"title":"DREAM MACHINES RG4050-15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae8d"},"title":"HP Laptop 14-EM0016ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae8e"},"title":"HP Laptop 17-CP0039ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae8f"},"title":"HP Laptop 17-CN30198ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae90"},"title":"HP Laptop 14-EM0015ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae91"},"title":"HP Laptop 17-CN3018ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae92"},"title":"HP Laptop 14-EM0014ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae93"},"title":"HP Laptop 17-CN3017ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae94"},"title":"HP Laptop 14-EM0013ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae95"},"title":"HP Laptop 17-CN2019ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae96"},"title":"HP Laptop 14-EM0012ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae97"},"title":"HP Laptop 17-CN2018ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae98"},"title":"HP Laptop 14-EM0011ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae99"},"title":"ASUS Vivobook 15 X1502ZA-BQ643 Icelight Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae9a"},"title":"ASUS Vivobook Go 15 E1504FA-BQ210 Mixed Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae9b"},"title":"HP Laptop 15-fc0047ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae9c"},"title":"HP Laptop 15-fc0043ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae9d"},"title":"HP Laptop 15-fc0039ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae9e"},"title":"HP Laptop 15-fc0046ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802ae9f"},"title":"HP Laptop 15-fc0042ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea0"},"title":"HP Laptop 15-fc0038ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea1"},"title":"HP Laptop 14-EM0009ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea2"},"title":"HP Laptop 15-fc0049ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea3"},"title":"HP Laptop 15-fc0045ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea4"},"title":"HP Laptop 15-fc0041ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea5"},"title":"HP Laptop 15-fc0037ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea6"},"title":"HP Laptop 14-EM0008ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea7"},"title":"HP Laptop 15-fc0048ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea8"},"title":"ASUS Vivobook Go 15 E1504FA-BQ008 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aea9"},"title":"HP Laptop 15-fc0044ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeaa"},"title":"HP Laptop 15-fc0040ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeab"},"title":"ASUS Vivobook Go 15 E1504FA-BQ090 Mixed Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeac"},"title":"HP Laptop 15-fc0036ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aead"},"title":"HP Laptop 15-fc0035ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeae"},"title":"HP Laptop 15-fc0034ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeaf"},"title":"HP 15-fc0052ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb0"},"title":"HP Laptop 15-fc0033ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb1"},"title":"HP Laptop 14-ep0025ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb2"},"title":"HP 15-fc0051ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb3"},"title":"HP 15-fc0050ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb4"},"title":"HP Laptop 14-ep0024ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb5"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb6"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb7"},"title":"HP Pavilion 15-eg3013ua Fog Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb8"},"title":"HP Pavilion 15-eg3000ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeb9"},"title":"Asus ROG Strix SCAR 18 G834JZ-N6075X Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeba"},"title":"ASUS Vivobook 16X K3604ZA-MB109 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aebb"},"title":"Lenovo IdeaPad 3 14ITL6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aebc"},"title":"ASUS Zenbook Pro 16X OLED UX7602BZ-MY021W Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aebd"},"title":"HP ZBook Firefly G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aebe"},"title":"HP ZBook Firefly G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aebf"},"title":"ASUS Zenbook 15 UM3504DA-BN153 Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec0"},"title":"ASUS Zenbook 15 UM3504DA-BN154 Basalt Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec1"},"title":"ASUS K6602VV-KV083","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec2"},"title":"Lenovo ThinkPad E16 Gen 1 Graphite Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec3"},"title":"ASUS ROG Zephyrus G16 GU603ZI-N4033 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec4"},"title":"ASUS Vivobook 16X K3604ZA-MB108 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec5"},"title":"Lenovo ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec6"},"title":"Lenovo ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec7"},"title":"Lenovo ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec8"},"title":"LENOVO V15 G3 ABA Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aec9"},"title":"Lenovo V15 G4 AMN Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeca"},"title":"Lenovo V15 G4 AMN Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aecb"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aecc"},"title":"Lenovo ThinkBook 16 G6 IRL","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aecd"},"title":"Lenovo ThinkBook 16 G6 IRL","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aece"},"title":"Lenovo ThinkBook 16 G6 IRL","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aecf"},"title":"Lenovo ThinkBook 16 G6 IRL","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed0"},"title":"Lenovo ThinkBook Lenovo TB 16 G6 IRL Arctic Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed1"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed2"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed3"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed4"},"title":"Lenovo ThinkBook 16 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed5"},"title":"Lenovo ThinkBook 16 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed6"},"title":"LENOVO ThinkBook 16 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed7"},"title":"HP Laptop 17-CP2000ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed8"},"title":"DREAM MACHINES RG4070-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aed9"},"title":"Dream Machines RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeda"},"title":"Dream Machines RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aedb"},"title":"Dream Machines RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aedc"},"title":"HP Laptop 15s-fq5019ua Snow Flake White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aedd"},"title":"HP Laptop 15s-fq5018ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aede"},"title":"Asus ExpertBook B9 B9403CVA-KM0113X Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aedf"},"title":"HP Laptop 15s-5002ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee0"},"title":"HP Laptop 15s-eq3039ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee1"},"title":"LENOVO V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee2"},"title":"HP Laptop 15s-eq2069ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee3"},"title":"HP Laptop 15s-eq2068ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee4"},"title":"LENOVO ThinkBook 16p G4 IRH Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee5"},"title":"LENOVO ThinkBook 16p G4 IRH Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee6"},"title":"Lenovo ThinkBook 14 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee7"},"title":"Lenovo ThinkBook 14 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee8"},"title":"Lenovo ThinkBook 16 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aee9"},"title":"Lenovo ThinkBook 14 G6 IRL Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeea"},"title":"HP ZBook Firefly G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeeb"},"title":"HP ZBook Firefly G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeec"},"title":"HP ZBook Firefly G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeed"},"title":"HP 17-cn1000ua Jet Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeee"},"title":"HP Laptop 15-fd0024ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeef"},"title":"HP Laptop 15-fd0006ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef0"},"title":"HP Pavilion 15-eh3000ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef1"},"title":"HP 17-CP3002ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef2"},"title":"HP 17-CP3001ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef3"},"title":"HP Pavilion 15-eh2037ua Natural silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef4"},"title":"HP Pavilion 15-eh2036ua Fog blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef5"},"title":"HP Pavilion 15-eh2034ua Ceramic white","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef6"},"title":"HP Pavilion 15-eh1119ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef7"},"title":"HP Pavilion 15-eh1109ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef8"},"title":"GIGABYTE G7 2023","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aef9"},"title":"GIGABYTE Aorus 15 9KF Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aefa"},"title":"DREAM MACHINES RG4060-15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aefb"},"title":"DREAM MACHINES RG4060-17","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aefc"},"title":"PROLOGIX M15-722","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aefd"},"title":"2E Rational 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aefe"},"title":"HP Pavilion 15-eg3024ua Ceramic white","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aeff"},"title":"HP Pavilion 15-eg3020ua Natural silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af00"},"title":"Lenovo V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af01"},"title":"Lenovo V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af02"},"title":"Lenovo V15 G4 IRU Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af03"},"title":"HP 17-cp2003ua Jet Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af04"},"title":"HP 17-CP2002ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af05"},"title":"HP 17-cp2001ua Jet Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af06"},"title":"Lenovo ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af07"},"title":"HP 17-cn2015ua Jet Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af08"},"title":"HP 17-cn2014ua Jet Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af09"},"title":"HP 17-cn1001ua Jet Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af0a"},"title":"PROLOGIX R10-230 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af0b"},"title":"LENOVO IdeaPad Slim 5 14ABR8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af0c"},"title":"Lenovo IdeaPad 3 15ITL6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af0d"},"title":"Lenovo ThinkPad T14-G4 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af0e"},"title":"HP 250-G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af0f"},"title":"LENOVO LOQ 3 15IRH8 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802af10"},"title":"ACER Extensa 15 EX215-55","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af11"},"title":"ACER Extensa 15 EX215-55","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af12"},"title":"ACER Aspire 3 15 A315-24P-R1HU","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af13"},"title":"APPLE MacBook Pro M3 Pro 14' 1TB Space Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af14"},"title":"ASUS Zenbook 14 OLED UX3402VA-KM063WS Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af15"},"title":"HP Pavilion 15-eh1107ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af16"},"title":"LENOVO IdeaPad Slim 5 14IAH8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af17"},"title":"LENOVO IdeaPad Slim 5 14IRL8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af18"},"title":"LENOVO IdeaPad Slim 5 14IRL8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af19"},"title":"LENOVO IdeaPad Slim 5 16ABR8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af1a"},"title":"LENOVO TB 14s Yoga G3 IRU","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af1b"},"title":"Lenovo ThinkPad T14 G4 T","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af1c"},"title":"HP Envy 16-h1010ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af1d"},"title":"HP Envy 16-h1009ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af1e"},"title":"LENOVO Legion Slim 7 16IRH8 Glacier White","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802af1f"},"title":"LENOVO Gaming 3 15ACH6 Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af20"},"title":"LENOVO Legion Slim 7 16APH8 Glacier White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af21"},"title":"LENOVO IP Slim 5 14ABR8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af22"},"title":"HP Envy x360 15-fe0010ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af23"},"title":"HP Envy x360 15-fe0009ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af24"},"title":"HP Envy 16-h1012ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af25"},"title":"HP Envy 16-h1008ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af26"},"title":"HP Envy x360 15-fe0008ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af27"},"title":"HP Envy x360 15-fe0007ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af28"},"title":"HP Envy x360 15-fe0006ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af29"},"title":"HP Envy x360 15-fe0005ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af2a"},"title":"HP Envy 17-cw0008ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af2b"},"title":"LENOVO IdeaPad Slim 5 14IAH8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af2c"},"title":"PIXUS Vix Lite","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802af2d"},"title":"Lenovo ThinkPad P14s AMD G4 T","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af2e"},"title":"Lenovo ThinkPad E16 G1 T","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af2f"},"title":"Lenovo ThinkPad P14s G4 T","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af30"},"title":"LENOVO Legion Slim 7 16IRH8 Glacier White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af31"},"title":"LENOVO IdeaPad Slim 3 15IAH8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af32"},"title":"LENOVO Legion 9 16IRX8 Carbon Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802af33"},"title":"LENOVO Legion 9 16IRX8 Carbon Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af34"},"title":"LENOVO Legion Slim 7 16IRH8 Glacier White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af35"},"title":"HP 250 G10 Dark ash silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af36"},"title":"HP 255-G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af37"},"title":"HP 250-G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af38"},"title":"HP 250-G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af39"},"title":"HP Probook 440 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af3a"},"title":"DREAM MACHINES RG3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af3b"},"title":"HP 255-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af3c"},"title":"HP 255-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af3d"},"title":"HP 255-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af3e"},"title":"HP 255-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af3f"},"title":"HP 255-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af40"},"title":"HP 250-G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af41"},"title":"HP 250-G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af42"},"title":"HP 250-G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af43"},"title":"DREAM MACHINES RS3060-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af44"},"title":"DREAM MACHINES RG3050TI-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af45"},"title":"DREAM MACHINES RS3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af46"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af47"},"title":"ACER Aspire 3 A315-24P-R380 Steam Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af48"},"title":"ACER Aspire Vero AV15-53P-519E Cobblestone Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af49"},"title":"ACER Aspire Vero AV15-52-756J Cobblestone Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af4a"},"title":"HP ZBook Studio G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af4b"},"title":"HP ProBook 450 G10 Pike Silver Aluminum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af4c"},"title":"HP 250 G10 Turbo silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af4d"},"title":"HP 250 G10 Turbo silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af4e"},"title":"HP 250 G10 Turbo silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af4f"},"title":"ASUS Zenbook Pro 14 Duo UX8402VU-P1060 Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af50"},"title":"HP ProBook 450 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af51"},"title":"HP ProBook 450 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af52"},"title":"Acer Aspire 5 A515-48M Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af53"},"title":"Asus Zenbook Pro 14 OLED UX8402VV-P1047 Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af54"},"title":"HP 250 G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af55"},"title":"Lenovo Legion Pro 7 16IRX8H Onyx Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802af56"},"title":"ASUS Vivobook S 15 OLED K5504VA-L1119WS Midnight Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af57"},"title":"HP ProBook 440 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af58"},"title":"HP 470 G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af59"},"title":"ASUS Vivobook S 15 OLED K3502ZA-L1533 Neutral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af5a"},"title":"HP ProBook 440 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af5b"},"title":"ASUS Vivobook S 15 K3502ZA-BQ409 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af5c"},"title":"HP 470 G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af5d"},"title":"HP EliteBook 1040 G10 x360 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af5e"},"title":"ASUS Vivobook 16X K3605ZV-N1027 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af5f"},"title":"HP ZBook Firefly G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af60"},"title":"DREAM MACHINES RG4050-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af61"},"title":"ASUS Zenbook 14X OLED UX3404VC-M9025WS Sandstone Beige","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af62"},"title":"ASUS Zenbook Pro 14 OLED UX6404VI-P4045W Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af63"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af64"},"title":"ASUS Zenbook Pro 14 OLED Duo OUX UX8402VV-P1046 Tech Black(90NB1172-M002V0)","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af65"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af66"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af67"},"title":"HP ProBook 440 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af68"},"title":"HP 250 G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af69"},"title":"Xiaomi RedmiBook 15 Charcoal Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af6a"},"title":"2E Complex Pro 14 Lite Ice Crystal Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af6b"},"title":"2E Complex Pro 14 Lite Ice Crystal Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af6c"},"title":"2E Complex Pro 14 Lite Ice Crystal Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af6d"},"title":"2E Complex Pro 14 Lite Ice Crystal Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af6e"},"title":"Lenovo IdeaPad 3 15IAU7 Misty Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af6f"},"title":"Asus Vivobook 15 OLED X1505ZA-L1262 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af70"},"title":"ACER Aspire 3 A315-59-596F Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af71"},"title":"ACER Aspire 3 A315-59-51ST Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af72"},"title":"ASUS Vivobook Pro 15 OLED M6500XU-MA013 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af73"},"title":"ASUS Vivobook Pro 15 M6500XV-LP018 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af74"},"title":"ASUS Vivobook Pro 15 K6502VU-LP097","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af75"},"title":"LENOVO Yoga Pro9 14IRP8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af76"},"title":"ACER Nitro 16 AN16-41","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af77"},"title":"ACER Nitro 16 AN16-51 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af78"},"title":"Lenovo ThinkPad E14 Gen 4 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af79"},"title":"LENOVO ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af7a"},"title":"PROLOGIX M15-710 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af7b"},"title":"Lenovo TB 15 G4 IAP","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af7c"},"title":"ASUS Vivobook 16X K3605ZU-N1036 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af7d"},"title":"ASUS Vivobook 16X OLED K3605ZV-MX019 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af7e"},"title":"Asus Expertbook B1 B1502CBA-BQ0494 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af7f"},"title":"ASUS BR1102FGA-MK0089 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af80"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af81"},"title":"LENOVO ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af82"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af83"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af84"},"title":"ASUS Zenbook 14 OLED UX3402VA-KM064WS Foggy Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af85"},"title":"ASUS Zenbook 14X OLED UX3404VA-M9015WS Inkwell Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af86"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af87"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af88"},"title":"ASUS Zenbook 14 UX425 UX425EA-KI632W Pine Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af89"},"title":"ACER Swift X SFX16-61G Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af8a"},"title":"ACER Swift X SFX16-61G Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af8b"},"title":"ASUS Zenbook Pro 14 OLED UX6404VV-P4036W Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af8c"},"title":"ASUS Zenbook Pro 14 OLED UX8402VU-P1059 Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af8d"},"title":"ACER Predator Triton 14 PT14-51","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af8e"},"title":"ACER Predator Triton 14 PT14-51","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af8f"},"title":"LENOVO IdeaPad 1 15ALC7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af90"},"title":"Lenovo IdeaPad 3 15ITL6 Sand","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af91"},"title":"ASUS Vivobook Pro 15 M6500XV-LP017 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af92"},"title":"Asus Vivobook 13 Slate OLED T3304GA-LQ005W Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af93"},"title":"Asus ROG Strix G16 G634JY-NM060W Off Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af94"},"title":"Asus ROG Zephyrus G14 GA402NV-N2037 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af95"},"title":"Asus ROG Zephyrus G14 GA402XY-N2036W Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af96"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af97"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af98"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af99"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af9a"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af9b"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af9c"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af9d"},"title":"Lenovo ThinkPad X1 Carbon Gen 11 Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af9e"},"title":"HP Envy x360 13-bf0007ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802af9f"},"title":"ACER Aspire 5 15 A515-48M-R0ZL Steel Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa0"},"title":"ASUS ZenBook Pro 14 OLED UX6404VV-P4077W Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa1"},"title":"ACER Aspire 5 A517-53G-79ZJ Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa2"},"title":"ACER Swift X SFX14-42G-R8VC","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa3"},"title":"ACER Aspire Vero AV15-53P-540B","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa4"},"title":"HP Probook 470-G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa5"},"title":"Asus ROG Strix G17 G713PU-LL058 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa6"},"title":"ASUS Vivobook 16X M3604YA-L2086","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa7"},"title":"HP Victus 16-s0001ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa8"},"title":"Lenovo ThinkPad L14 G4 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afa9"},"title":"Lenovo ThinkPad L14 G4 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afaa"},"title":"Lenovo ThinkPad L15 AMD G4 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afab"},"title":"Lenovo TB 15 G4 IAP","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afac"},"title":"LENOVO TB 15 G4 IAP","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afad"},"title":"HP EliteBook 860-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afae"},"title":"DREAM MACHINES RT4060-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afaf"},"title":"DREAM MACHINES RG4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb0"},"title":"ACER Swift Go 14\" SFG14-41 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb1"},"title":"Acer Swift Go 14 SFG14-41-R8HA Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb2"},"title":"Acer Predator Helios 300 PH315-55-763N Abyssal Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb3"},"title":"ASUS ROG Zephyrus Duo 16 2023 Black GX650PY-NM079X","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb4"},"title":"HP EliteBook 860-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb5"},"title":"HP Victus 16-s0000ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb6"},"title":"HP Probook 440 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb7"},"title":"HP Probook 440 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb8"},"title":"HP OMEN 16-u0001ua Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afb9"},"title":"HP EliteBook 865 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afba"},"title":"HP EliteBook 1040 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afbb"},"title":"HP ZBook Firefly 14 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afbc"},"title":"HP EliteBook x360 1040 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afbd"},"title":"HP EliteBook 1040 G10 x360 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afbe"},"title":"HP EliteBook 1040 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afbf"},"title":"HP ZBook Power G10A","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc0"},"title":"Lenovo IdeaPad 1 15ALC7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc1"},"title":"HP EliteBook 640 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc2"},"title":"HP EliteBook 1040 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc3"},"title":"Lenovo ThinkPad X1 Carbon Gen 11 T Deep Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc4"},"title":"Lenovo ThinkPad L14 Gen 4 AMD Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc5"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc6"},"title":"HP ZBook Firefly 16 G10 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc7"},"title":"HP ZBook Firefly 16 G10 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc8"},"title":"HP ZBook Firefly 16 G10 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afc9"},"title":"HP 250 G8 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afca"},"title":"HP ZBook Firefly 14 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afcb"},"title":"HP ZBook Firefly 14 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afcc"},"title":"HP ProBook x360 435 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afcd"},"title":"HP ProBook x360 435 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afce"},"title":"HP ProBook x360 435 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afcf"},"title":"HP ZBook Firefly 16 G10 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd0"},"title":"HP ZBook Firefly 16 G10 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd1"},"title":"HP 250-G10 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd2"},"title":"HP ZBook Firefly G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd3"},"title":"HP ZBook Fury 16 G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd4"},"title":"HP ZBook Power G10A","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd5"},"title":"HP Probook 470-G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd6"},"title":"HP ZBook Fury 16 G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd7"},"title":"HP Probook 470-G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd8"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afd9"},"title":"HP EliteBook 650 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afda"},"title":"HP ZBook Firefly G10A","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afdb"},"title":"HP EliteBook 640 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afdc"},"title":"HP ZBook Firefly G10A","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afdd"},"title":"HP ZBook Fury 16 G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afde"},"title":"HP ProBook 440 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afdf"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe0"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe1"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe2"},"title":"2E Complex Pro 17","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe3"},"title":"HP 250-G8 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe4"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe5"},"title":"2E Complex Pro 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe6"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe7"},"title":"HP 250 G8 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe8"},"title":"HP 17-cn3004ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afe9"},"title":"HP OMEN Transcend 16-u0003ua Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afea"},"title":"HP OMEN Transcend 16-u0002ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afeb"},"title":"HP OMEN 17-cm2000ua Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afec"},"title":"HP OMEN 17-ck2008ua Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afed"},"title":"HP OMEN 17-ck2004ua Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afee"},"title":"HP OMEN 17-ck2006ua Shadow black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afef"},"title":"HP OMEN 17-ck2002ua Shadow black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff0"},"title":"HP OMEN Gaming 16-wf0001ua Shadow black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff1"},"title":"HP OMEN Transcend 16-u0007ua Shadow black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff2"},"title":"ASUS Zenbook S 13 OLED UM5302LA-LV039W Refined White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff3"},"title":"Acer Predator Helios 300 PH315-55-78P2 Abyssal Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff4"},"title":"HP Omen Transcend Laptop 16-u0006ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff5"},"title":"HP 17-cn2004ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff6"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff7"},"title":"LENOVO Yoga Pro 9 14IRP8 Tidal Teal","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff8"},"title":"Lenovo Legion Pro 5 16IRX8 Onyx Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802aff9"},"title":"ACER Enduro Urban N3 Lite EUN314LA-51W-50SB Polaris Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802affa"},"title":"ACER Aspire 7 A715-76G Charcoal Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802affb"},"title":"DREAM MACHINES RT4060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802affc"},"title":"DREAM MACHINES RG4050-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802affd"},"title":"DREAM MACHINES RG3050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802affe"},"title":"DREAM MACHINES RG3050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802afff"},"title":"DREAM MACHINES RT4060-15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b000"},"title":"MICROSOFT Surface Laptop-5","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b001"},"title":"ACER Aspire 5 Spin 14 A5SP14-51MTN Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b002"},"title":"ACER Aspire 5 A515-58M Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b003"},"title":"ASUS ExpertBook B1 B1502CBA-BQ0499 Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b004"},"title":"ASUS ExpertBook B1 B1502CBA-BQ0498 Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b005"},"title":"ASUS ExpertBook B1 B1502CBA-BQ0496 Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b006"},"title":"ASUS ExpertBook B1 B1502CBA-BQ0494X Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b007"},"title":"ACER Aspire 5 Spin 14 A5SP14-51MTN Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b008"},"title":"ASUS Vivobook S 15 OLED K5504VN-L1024WS Midnight Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b009"},"title":"ASUS ExpertBook B9 B9403CVA-KM0024 Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b00a"},"title":"ACER Swift Go 14 SFG14-71 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b00b"},"title":"ACER Aspire 3 Spin 14 A3SP14-31PT Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b00c"},"title":"ACER Aspire 3 Spin 14 A3SP14-31PT Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b00d"},"title":"HP OMEN 17-cm2007ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b00e"},"title":"HP OMEN 16-wf0000ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b00f"},"title":"Asus Vivobook 16X M3604YA-N1094 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b010"},"title":"ASUS Vivobook 16X K3605ZF-N1097 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b011"},"title":"ASUS TUF Gaming F17 FX707VV4-LL040 Mecha Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b012"},"title":"ASUS TUF Gaming F15 FX507ZV4-HQ039 Mecha Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b013"},"title":"ASUS ROG Strix G18 G814JU-N6041 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b014"},"title":"ASUS ROG Strix G16 G614JV-N3143 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b015"},"title":"ASUS VivoBook 17X K1703ZA-AU066 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b016"},"title":"HP Pavilion 15-eh3007ua Fog Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b017"},"title":"HP Pavilion 15-eh3005ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b018"},"title":"HP Pavilion 15-eg3037ua Fog Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b019"},"title":"HP Pavilion 15-eg3035ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b01a"},"title":"HP Pavilion 15-eg3034ua Fog Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b01b"},"title":"HP Pavilion 15-eg3033ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b01c"},"title":"HP Pavilion 15-eg3032ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b01d"},"title":"ASUS Vivobook 17 X1704ZA-AU010 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b01e"},"title":"HP 15-fd0035ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b01f"},"title":"HP 15-fd0034ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b020"},"title":"HP 15-fd0033ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b021"},"title":"ASUS Vivobook 17 X1704ZA-AU008 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b022"},"title":"HP 14-ep0006ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b023"},"title":"HP 15-fd0044ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b024"},"title":"HP 15-fc0011ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b025"},"title":"HP 15-fc0008ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b026"},"title":"HP 15-fd0043ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b027"},"title":"HP 15-fd0041ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b028"},"title":"HP 14-ep0008ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b029"},"title":"HP 15-fd0032ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b02a"},"title":"HP 15-fd0038ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b02b"},"title":"HP 15-fd0036ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b02c"},"title":"HP 15-fc0017ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b02d"},"title":"HP 15s-fq5027ua Snow Flake White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b02e"},"title":"HP 15-fd0053ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b02f"},"title":"HP 15-fd0052ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b030"},"title":"HP 15-fd0054ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b031"},"title":"HP 15-fd0051ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b032"},"title":"HP 15-fd0048ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b033"},"title":"HP 15-fd0046ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b034"},"title":"GIGABYTE AORUS 15X Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b035"},"title":"GIGABYTE AORUS 15X Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b036"},"title":"GIGABYTE AORUS 15X Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b037"},"title":"ASUS FX707ZU4-HX063","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b038"},"title":"ACER Nitro 16 AN16-51-50J1 Obsidian Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b039"},"title":"ASUS Vivobook 16X K3604VA-MB105 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b03a"},"title":"ASUS Vivobook 16 M1605YA-MB024 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b03b"},"title":"ASUS Vivobook 17 X1704ZA-AU013 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b03c"},"title":"ACER Nitro 17 AN17-71-578H Obsidian Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b03d"},"title":"ASUS Vivobook 17 X1704ZA-AU011 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b03e"},"title":"ASUS Vivobook S 15 OLED K5504VN-L1026WS Cream White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b03f"},"title":"Vivobook K1703ZA-AU141 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b040"},"title":"ASUS Vivobook S 15 OLED K5504VN-L1023WS Solar Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b041"},"title":"LENOVO Yoga 7 14IRL8 Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b042"},"title":"LENOVO Yoga 7 14IRL8 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b043"},"title":"Lenovo Yoga Pro 9 16IRP8 Tidal Teal","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b044"},"title":"HP Probook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b045"},"title":"Lenovo ThinkPad X1 Yoga G8 T Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b046"},"title":"Lenovo ThinkPad X1 Carbon G11 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b047"},"title":"ASUS Zenbook 14 OLED UX3402ZA-KM407W Aqua Celadon","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b048"},"title":"Lenovo ThinkPad X1 Carbon G11 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b049"},"title":"Lenovo Yoga 7 14ARP8 Tidal Teal","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b04a"},"title":"ASUS Zenbook 14 OLED UX3402ZA-KM390W Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b04b"},"title":"ASUS Zenbook S 13 OLED UX5304VA-NQ083 Basalt Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b04c"},"title":"ASUS Zenbook S 13 OLED UX5304VA-NQ074 Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b04d"},"title":"Lenovo Yoga 7 14ARP8 Tidal Teal","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b04e"},"title":"Lenovo Yoga 7 14ARP8 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b04f"},"title":"Lenovo Yoga 7 14IRL8 Storm Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b050"},"title":"GIGABYTE AERO 16 OLED Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b051"},"title":"Lenovo ThinkBook 15 G4 ABA Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b052"},"title":"HP 17-cp23005ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b053"},"title":"HP 17-cp2007ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b054"},"title":"HP 17-cp2005ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b055"},"title":"HP 17-cp2004ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b056"},"title":"HP 17-cn3014ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b057"},"title":"HP 17-cn3011ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b058"},"title":"HP 17-cn3010ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b059"},"title":"Lenovo Yoga Pro 9 16IRP8 Tidal Teal","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b05a"},"title":"Lenovo V15 G4 AMN Business Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b05b"},"title":"Lenovo Legion Pro7 16IRX8H Onyx Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b05c"},"title":"HP Pavilion 14-dv2024ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b05d"},"title":"HP Pavilion 14-dv2023ua Tranquil Pink","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b05e"},"title":"HP Pavilion 15-eg3026ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b05f"},"title":"HP Laptop 15s-fq5028ua Spruce Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b060"},"title":"HP Pavilion 15-eg2041ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b061"},"title":"HP Pavilion 15-eg2039ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b062"},"title":"HP 15s-fq5024ua Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b063"},"title":"GIGABYTE AERO 14 OLED Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b064"},"title":"HP Pavilion 15-eg2038ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b065"},"title":"HP 15-fc0015ua White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b066"},"title":"HP Laptop 15s-fq5026ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b067"},"title":"HP 15-fc0012ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b068"},"title":"HP Pavilion 15-eg2036ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b069"},"title":"HP 15-fc0009ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b06a"},"title":"ASUS ExpertBook B1 B1500CEAE-BQ1663 Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b06b"},"title":"HP Laptop 15s-fq5025ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b06c"},"title":"HP 15-fc0007ua Moonlight Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b06d"},"title":"HP 14-ep0020ua Warm Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b06e"},"title":"HP 14-ep0019ua White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b06f"},"title":"LENOVO IP1 15IAU7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b070"},"title":"HP Pavilion 15-eg2033ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b071"},"title":"HP Pavilion x360 14-ek1011ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b072"},"title":"HP Pavilion x360 14-ek1010ua Space Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b073"},"title":"HP Pavilion x360 14-ek1009ua Pale Rose Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b074"},"title":"HP Pavilion x360 14-ek1008ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b075"},"title":"HP Pavilion x360 14-ek1007ua Space Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b076"},"title":"HP Pavilion x360 14-ek1005ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b077"},"title":"HP Pavilion Aero 13-be2009ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b078"},"title":"HP Pavilion x360 14-ek1004ua Space Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b079"},"title":"HP Pavilion 15-eh3009ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b07a"},"title":"HP Pavilion 15-eh3008ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b07b"},"title":"HP Pavilion Aero 13-be2008ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b07c"},"title":"HP Pavilion 15-eh3006ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b07d"},"title":"LENOVO Yoga Pro7 14IRH8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b07e"},"title":"ACER Enduro N7 EN715-51W Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b07f"},"title":"LENOVO Yoga Pro 7 14IRH8 Tidal Teal","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b080"},"title":"LENOVO Yoga Pro 7 14IRH8 Tidal Teal","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b081"},"title":"ASUS Vivobook 15 M1502YA-BQ019 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b082"},"title":"ASUS ROG Strix G16 G634JY-NM057W Off Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b083"},"title":"ACER Swift X SFX14-71G-789M Steel Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b084"},"title":"Note/14'-16' ACER Predator Helios 18 PH18-71","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b085"},"title":"Acer Predator Helios 16 PH16-71-95AJ Abyssal Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b086"},"title":"ASUS ROG Zephyrus G14 GA402NV-N2019 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b087"},"title":"ASUS Zenbook S 13 Flip OLED UP5302ZA-LX083W Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b088"},"title":"LENOVO V15 Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b089"},"title":"LENOVO V15 Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b08a"},"title":"ASUS ROG Zephyrus G16 GU603ZU-N4017 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b08b"},"title":"ASUS ROG Zephyrus G14 GA402XY-N2046X Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b08c"},"title":"ASUS Zenbook 14 OLED UX3402ZA-KM516W Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b08d"},"title":"HP EliteBook 645 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b08e"},"title":"HP ProBook 455 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b08f"},"title":"ACER TravelMate P2 TMP215-53 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b090"},"title":"ASUS Zenbook 14X OLED UX5401ZA-L7065X Pine Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b091"},"title":"ASUS Zenbook Pro 14 OLED UX8402VV-P1048 Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b092"},"title":"ASUS Vivobook S 14X OLED S5402ZA-M9164W Solar Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b093"},"title":"ASUS Vivobook S 14X OLED S5402ZA-M9162W Sand Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b094"},"title":"ASUS Vivobook S 14X OLED S5402ZA-M9163W Midnight Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b095"},"title":"ASUS ROG Strix G18 G814JZ-N6004 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b096"},"title":"Acer Predator Helios 16 PH16-71 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b097"},"title":"HP ProBook 440 G9 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b098"},"title":"HP 250 G9 Dark ash silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b099"},"title":"Asus VivoBook Pro 16X OLED N7601ZW-MQ112W Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b09a"},"title":"ASUS ProArt StudioBook Pro 16 OLED H7604JI-MY063 Mineral Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b09b"},"title":"ASUS ProArt StudioBook Pro 16 OLED W7604J3D-MY046 Mineral Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b09c"},"title":"Lenovo ThinkBook 15 G4 ABA Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b09d"},"title":"Lenovo ThinkBook 15 G4 ABA Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b09e"},"title":"Lenovo ThinkBook 15 G4 ABA Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b09f"},"title":"Asus ZenBook 14 OLED UX3402VA-KM066WS Foggy Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a0"},"title":"ASUS Zenbook 14 OLED UM3402YA-KM191W Jade Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a1"},"title":"ASUS Zenbook 14 OLED UX3402VA-KM065WS Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a2"},"title":"Acer Predator Helios 16 PH16-71-770K Abyssal Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a3"},"title":"ACER Swift Go 16 SFG16-71 Steel Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a4"},"title":"ACER Swift Go 16 SFG16-71 Steel Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a5"},"title":"ACER Swift Go 14 SFG14-71 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a6"},"title":"Lenovo Lenovo IdeaPad 3 15ALC6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a7"},"title":"Asus Vivobook 15 D1502IA-BQ323 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a8"},"title":"ACER Aspire 3 A315-24P-R9Z0 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0a9"},"title":"HP 250 G9 Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0aa"},"title":"HP ProBook 450 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ab"},"title":"HP ProBook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ac"},"title":"HP ProBook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ad"},"title":"HP ProBook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ae"},"title":"HP 255 G9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0af"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b0"},"title":"HP 255-G9 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b1"},"title":"HP 250-G9 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b2"},"title":"HP 250-G9 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b3"},"title":"HP Probook 450-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b4"},"title":"HP Probook 440-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b5"},"title":"HP Probook 440-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b6"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b7"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b8"},"title":"HP Probook 440-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0b9"},"title":"HP 250 G9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ba"},"title":"HP 250 G9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0bb"},"title":"ACER Aspire 3 A315-59 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0bc"},"title":"ACER Aspire 3 A315-59 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0bd"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0be"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0bf"},"title":"HP ProBook 455 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c0"},"title":"HP 250 G9 Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c1"},"title":"HP 250 G9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c2"},"title":"Acer Predator Helios 16 PH16-71 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c3"},"title":"ACER Predator Helios 16 PH16-71-970L Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c4"},"title":"ACER Predator Helios 18 PH18-71 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c5"},"title":"HP ProBook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c6"},"title":"PIXUS Vix 14.1\" 8/128GB Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c7"},"title":"YEPO 737J8 Pro Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c8"},"title":"ASUS Vivobook Pro 15X OLED M6501RR-MA042X Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0c9"},"title":"ASUS ROG Zephyrus Duo 16 GX650PZ-NM025X Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ca"},"title":"ASUS Vivobook S 15 OLED K5504VA-L1117WS Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0cb"},"title":"ASUS ZenBook 14X OLED UX3404VA-M9023WS Sandstone Beige","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0cc"},"title":"MICROSOFT Surface Laptop 5 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0cd"},"title":"MICROSOFT Surface Laptop 5 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ce"},"title":"MICROSOFT Surface Laptop 5 Platinum","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0cf"},"title":"2E Imaginary 15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d0"},"title":"2E Imaginary 15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d1"},"title":"2E Complex Pro 17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d2"},"title":"ASUS ROG Zephyrus G16 GU603ZV-N4010 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d3"},"title":"Asus Zenbook Pro Duo 15 OLED UX582ZW-H2037X Celestial Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d4"},"title":"GIGABYTE AORUS 17H Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d5"},"title":"MICROSOFT Surface Laptop 5 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d6"},"title":"Dream Machines RG4060-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d7"},"title":"ASUS ZenBook 14X OLED UX3404VC-M9026WS Inkwell Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d8"},"title":"ASUS ZenBook 14X OLED UX3404VA-M9024WS Inkwell Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0d9"},"title":"ASUS Vivobook S 15 K5504VN-BN036WS Midnight Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0da"},"title":"LENOVO IP1 15AMN7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0db"},"title":"Lenovo IdeaPad 3 14ITL6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0dc"},"title":"Acer Aspire 3 A315-24P-R2B0 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0dd"},"title":"ACER Aspire 3 A315-35-P04S Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0de"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0df"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e0"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e1"},"title":"HP ZBook Fury 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e2"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e3"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e4"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e5"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e6"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e7"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e8"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0e9"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ea"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0eb"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ec"},"title":"HP ZBook Firefly 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ed"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ee"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ef"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f0"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f1"},"title":"HP ZBook Fury 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f2"},"title":"HP ZBook Firefly 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f3"},"title":"HP ZBook Firefly 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f4"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f5"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f6"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f7"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f8"},"title":"HP ZBook Firefly 14 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0f9"},"title":"THOMSON Neo V2 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0fa"},"title":"THOMSON Neo N15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0fb"},"title":"ACER Nitro 5 AN517-55-52JC Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0fc"},"title":"HP EliteBook x360 1040 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0fd"},"title":"LENOVO V15 G3 ABA Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0fe"},"title":"LENOVO ThinkPad E15 G4 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b0ff"},"title":"HP EliteBook 645 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b100"},"title":"HP EliteBook 645 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b101"},"title":"HP EliteBook 640 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b102"},"title":"HP EliteBook 640 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b103"},"title":"LENOVO V15 G3 ABA Business Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b104"},"title":"LENOVO V15 Gen 3 ABA Business Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b105"},"title":"LENOVO V15 Gen 3 ABA Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b106"},"title":"Lenovo ThinkBook 15 G3 ACL Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b107"},"title":"HP EliteBook 1040 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b108"},"title":"ASUS UX3402ZA-KM412W Aqua Celadon","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b109"},"title":"HP Laptop 15s-eq2405nw Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b10a"},"title":"Lenovo ThinkBook 15 G3 ACL Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b10b"},"title":"LENOVO V15 GEN2 ITL Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b10c"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b10d"},"title":"Lenovo Legion 5 15IAH7 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b10e"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b10f"},"title":"LENOVO Legion 5 15ARH7H Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b110"},"title":"LENOVO ThinkBook 15 G3 ACL Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b111"},"title":"HP 250 G8 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b112"},"title":"DREAM MACHINES RS3080-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b113"},"title":"DREAM MACHINES RG3050Ti-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b114"},"title":"Lenovo ThinkBook 16 G4+ IAP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b115"},"title":"ASUS Zenbook 14 UX3402ZA-KP415W Ponder Blue","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b116"},"title":"ASUS Zenbook 14 UX3402ZA-KP416W Aqua Celadon","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b117"},"title":"HP ProBook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b118"},"title":"HP ProBook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b119"},"title":"ASUS M6500QH-HN081","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b11a"},"title":"Asus Vivobook 15X OLED M1503QA-L1164 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b11b"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b11c"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b11d"},"title":"HP 250 G8 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b11e"},"title":"ASUS Vivobook 16X M1603IA-MB082 Transparent Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b11f"},"title":"ACER Aspire 3 A315-58-3101 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b120"},"title":"Lenovo IdeaPad 3 15IML05 Business Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b121"},"title":"ACER Extensa 15 EX215-54-346L Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b122"},"title":"ACER Swift 5 SF514-56T-50QP Green","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b123"},"title":"ASUS Vivobook 15 X1502ZA-BQ641 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b124"},"title":"ASUS Vivobook S 15 OLED M3502QA-MA141 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b125"},"title":"APPLE MacBook M2 Pro 14' 512GB Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b126"},"title":"Lenovo ThinkBook 15 G4 IAP Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b127"},"title":"Lenovo ThinkBook 15 G4 IAP Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b128"},"title":"Lenovo ThinkPad P15v Gen 3 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b129"},"title":"Lenovo ThinkPad P15v Gen 3 Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b12a"},"title":"Lenovo ThinkPad T14 AMD G3 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b12b"},"title":"Lenovo ThinkPad T14s AMD G3 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b12c"},"title":"Lenovo ThinkPad T14s AMD G3 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b12d"},"title":"Lenovo IdeaPad Gaming 3 15ARH7 Onyx Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b12e"},"title":"Lenovo ThinkPad T16 Gen 1 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b12f"},"title":"ASUS Vivobook Pro 15 OLED M6500QC-L1088 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b130"},"title":"ASUS Vivobook 16X M1603QA-MB195 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b131"},"title":"ACER Aspire 5 A515-45G-R32W Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b132"},"title":"LENOVO IdeaPad 3 15ITL6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b133"},"title":"Lenovo ThinkPad T14 G3 Thunder Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b134"},"title":"Lenovo ThinkPad T14 G3 Thunder Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b135"},"title":"Lenovo ThinkPad T14 AMD G3 T Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b136"},"title":"Lenovo ThinkPad T14 G3 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b137"},"title":"Lenovo ThinkPad P1 G5 T Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b138"},"title":"Lenovo ThinkPad X1 Extreme G5 T Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b139"},"title":"Lenovo ThinkPad X1 Extreme G5 T Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b13a"},"title":"Lenovo ThinkPad T14 G3 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b13b"},"title":"ASUS Vivobook 15 X1502ZA-BQ644 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b13c"},"title":"Prologix M15-720 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b13d"},"title":"Prologix M15-720 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b13e"},"title":"Lenovo ThinkBook 16 G4+ IAP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b13f"},"title":"Acer Swift 5 SF514-56T-77T1 Mist Green","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b140"},"title":"DREAM MACHINES RT3080-15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b141"},"title":"ACER Aspire 5 A515-47 Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b142"},"title":"ASUS VivoBook 16 OLED X1605EA-MB052 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b143"},"title":"Lenovo ThinkBook 16p G3 ARH Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b144"},"title":"ASUS Vivobook 15X OLED M1503IA-L1037 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b145"},"title":"DREAM MACHINES RG3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b146"},"title":"DREAM MACHINES RG3050-15 Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b147"},"title":"DREAM MACHINES RG3050Ti-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b148"},"title":"DREAM MACHINES G1650-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b149"},"title":"ASUS Vivobook 15 X1502ZA-BQ646 Icelight Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b14a"},"title":"ASUS Vivobook Pro K6500ZH-HN172 Cool Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b14b"},"title":"Lenovo IdeaPad 3 15ALC6 Arctic Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b14c"},"title":"ACER Swift 3 SF314-511-31N2 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b14d"},"title":"ACER Aspire 3 A317-33-P087 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b14e"},"title":"Lenovo IdeaPad 3 15ADA05 Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b14f"},"title":"DREAM MACHINES RT3080-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b150"},"title":"DREAM MACHINES RT3080Ti-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b151"},"title":"DREAM MACHINES RT3080Ti-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b152"},"title":"DREAM MACHINES RT3080Ti-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b153"},"title":"Acer Aspire 3 A315-43-R0AW Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b154"},"title":"ACER Aspire 5 A515-56-3545 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b155"},"title":"DREAM MACHINES RS3080-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b156"},"title":"DREAM MACHINES RS3070-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b157"},"title":"DREAM MACHINES RG3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b158"},"title":"HP EliteBook x360 1040 G8 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b159"},"title":"Lenovo ThinkPad T14 Gen 3 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b15a"},"title":"LENOVO V15 G2 ALC Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b15b"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b15c"},"title":"DREAM MACHINES RS3080-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b15d"},"title":"Lenovo IdeaPad Gaming 3 15ACH6 Shadow Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b15e"},"title":"Lenovo IdeaPad Gaming 3 15ACH6 Shadow Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b15f"},"title":"ASUS ZenBook 14 UM425QA-KI198 Pine Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b160"},"title":"Lenovo IdeaPad Gaming 3 15IHU6 Shadow Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b161"},"title":"Lenovo ThinkPad T14s AMD Gen 2 Villi Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b162"},"title":"ASUS ProArt Studiobook 16 H7600ZM-KV102 Mineral Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b163"},"title":"ASUS Vivobook 15 M1502IA-BQ096 Icelight Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b164"},"title":"DREAM MACHINES RG3050Ti-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b165"},"title":"DREAM MACHINES RG3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b166"},"title":"DREAM MACHINES RG3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b167"},"title":"DREAM MACHINES RG3050-15 Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b168"},"title":"Lenovo IdeaPad Gaming 3 15IHU6 Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b169"},"title":"ASUS ExpertBook Dark Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b16a"},"title":"Lenovo ThinkPad T16 Gen 1 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b16b"},"title":"Lenovo ThinkPad T16 Gen 1 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b16c"},"title":"Lenovo ThinkPad T16 Gen 1 Thunder Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b16d"},"title":"Lenovo ThinkPad X1 Carbon 10 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b16e"},"title":"ASUS Vivobook S 15 OLED K3502ZA-L1280W Neutral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b16f"},"title":"ACER Aspire 3 A315-59 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b170"},"title":"2E Complex Pro 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b171"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b172"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b173"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b174"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b175"},"title":"2E Complex Pro 17 Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b176"},"title":"2E Complex Pro 17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b177"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b178"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b179"},"title":"ACER Enduro Urban N3 EUN314-51W Denim Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b17a"},"title":"Swift 5 SF514-56T Green","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b17b"},"title":"ASUS Zenbook S 13 OLED UM5302TA-LV523W Aqua Celadon","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b17c"},"title":"APPLE A2681 MacBook Air 13' M2 512GB Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b17d"},"title":"Lenovo IdeaPad 5 Pro 14IAP7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b17e"},"title":"ASUS X515EA-BQ311 Transparent Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b17f"},"title":"ASUS Laptop M515DA-BR903 Slate Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b180"},"title":"Acer Enduro Urban N3 EUN314-51W Denim Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b181"},"title":"Lenovo IdeaPad Gaming 3 15IAH7","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b182"},"title":"Acer Aspire 3 A315-58-5978 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b183"},"title":"DREAM MACHINES RG3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b184"},"title":"Lenovo IdeaPad 5 15ITL05 Graphite Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b185"},"title":"Dream Machines RG3060-17 Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b186"},"title":"Dream Machines RG3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b187"},"title":"HP 250 G8 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b188"},"title":"PRESTIGIO SmartBook 141 C6 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b189"},"title":"LENOVO V14 Iron Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b18a"},"title":"LENOVO IdeaPad 5 15ALC05 Graphite Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b18b"},"title":"HP ProBook 455 G8 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b18c"},"title":"HP ProBook 445 G8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b18d"},"title":"HP ProBook 445 G8 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b18e"},"title":"LENOVO ThinkBook 14 Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b18f"},"title":"LENOVO ThinkBook 14 Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b190"},"title":"LENOVO Legion 5 15IMH05H Phantom Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b191"},"title":"Lenovo ThinkBook 15 G2 ITL Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b192"},"title":"LENOVO ThinkBook 15 G3 ACL Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b193"},"title":"HP 255 G8 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b194"},"title":"ACER Swift 3 SF314-43-R765 Pure Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b195"},"title":"HP 255 G8 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b196"},"title":"LENOVO Yoga Slim 7 14ITL05 Slate Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b197"},"title":"Lenovo Legion 5 Pro 16ACH6 Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b198"},"title":"CHUWI GemiBook PRO 2K-IPS Jasper Lake","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b199"},"title":"HP Pavilion 14-dv0008ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b19a"},"title":"LENOVO ThinkBook 15 G3 ACL Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b19b"},"title":"HP ProBook 630 G8 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b19c"},"title":"HP 250 G8 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b19d"},"title":"HP ProBook 450 G8 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b19e"},"title":"HP 250 G8 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b19f"},"title":"HP Pavilion 15-eh1023ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a0"},"title":"MICROSOFT Surface Laptop 3 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a1"},"title":"LENOVO ThinkBook 14 G2 ITL Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a2"},"title":"ACER Aspire 3 A317-33 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a3"},"title":"ACER Aspire 3 A315-35 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a4"},"title":"ACER Swift 1 SF114-34-P1PK Safari Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a5"},"title":"LENOVO ThinkPad X1 Fold Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a6"},"title":"ACER Aspire 3 A315-57G-36EU Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a7"},"title":"HP ZBook 15 G6 Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a8"},"title":"ACER Nitro 5 AN515-57-5423 Shale Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1a9"},"title":"ACER Aspire 5 A515-56G-38DQ Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1aa"},"title":"ACER Aspire 3 15 A315-24P-R2VU","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ab"},"title":"HYUNDAI HyBook Space Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ac"},"title":"APPLE MacBook Pro M3 Pro 16' 18GB/512GB Space Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ad"},"title":"APPLE MacBook Air 15' M2 512GB Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ae"},"title":"APPLE MacBook Air M2 512GB Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1af"},"title":"LENOVO ThinkBook 15 Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b0"},"title":"ACER Aspire 3 A315-58","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b1"},"title":"ACER Aspire 5 A515-57G-76HQ Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b2"},"title":"PIXUS Rise Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b3"},"title":"ACER Aspire 1 A115-31 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b4"},"title":"HP ProBook 455 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b5"},"title":"ASUS Vivobook 16X K3604ZA-MB023","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b6"},"title":"ASUS Vivobook 15X K3504ZA-BQ034 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b7"},"title":"Lenovo IdeaPad Gaming 3 15IAH7 Onyx Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b8"},"title":"HP 250 G8 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1b9"},"title":"HP EliteBook 840 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ba"},"title":"ASUS Vivobook 16X OLED K3605VU-MX044 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1bb"},"title":"Lenovo ThinkPad X1 Carbon G11 T","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1bc"},"title":"Lenovo ThinkPad T14 G4 T","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1bd"},"title":"HP ZBook Power G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1be"},"title":"Lenovo ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1bf"},"title":"ACER Aspire 5 A515-48M-R4C0 Steel Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c0"},"title":"HP Pavilion 15-eg2014ua Fog Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c1"},"title":"ACER Aspire 3 A315-58-33PL","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c2"},"title":"APPLE MacBook Pro M3 Pro 16' 36GB/512GB Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c3"},"title":"Lenovo IdeaPad Gaming 3 15ARH7 Onyx Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c4"},"title":"ASUS Vivobook 16 X1605ZA-MB332 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c5"},"title":"HP EliteBook 865 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c6"},"title":"ASUS Vivobook 16X OLED K3605ZV-MX017 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c7"},"title":"ASUS TUF Gaming F15 FX506HF-HN039 Graphite Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c8"},"title":"ACER Enduro Urban N3 EUN314-51W Denim Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1c9"},"title":"ACER Enduro Urban N3 EUN314-51W Denim Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ca"},"title":"Lenovo IdeaPad 3 14ITL6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1cb"},"title":"HP Probook 455-G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1cc"},"title":"ACER Aspire 3 A315-510P Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1cd"},"title":"ACER Swift 3 SF314-512 Haze Gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ce"},"title":"ACER Aspire 3 A317-54 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1cf"},"title":"HP Probook 470-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d0"},"title":"HP Probook 450-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d1"},"title":"HP EliteBook 860 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d2"},"title":"HP EliteBook 860-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d3"},"title":"HP EliteBook 1040 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d4"},"title":"ASUS Vivobook Pro 16X OLED K6604JV-MX077 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d5"},"title":"Lenovo Ideapad 1 15IGL7 Abyss Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d6"},"title":"ASUS ProArt Studiobook 16 OLED H7604JV-MY059 Mineral Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d7"},"title":"ASUS Vivobook Pro 15 OLED K6502VU-MA094 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d8"},"title":"Lenovo ThinkPad E15 Gen 4 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1d9"},"title":"Lenovo ThinkBook 15 G4 ABA Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1da"},"title":"Lenovo ThinkBook 15 G4 ABA Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1db"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1dc"},"title":"LENOVO V15 Gen 3 ABA Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1dd"},"title":"HP EliteBook 860-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1de"},"title":"HP Probook 440-G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1df"},"title":"HP Probook 450-G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e0"},"title":"HP Victus 16-s0003ua Mica Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e1"},"title":"HP ProBook 450 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e2"},"title":"APPLE MacBook Pro M3 Pro 14' 1TB Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e3"},"title":"APPLE MacBook Pro M3 Pro 14' 512GB Space Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e4"},"title":"HP 250-G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e5"},"title":"ASUS VivoBook 15 X1500EA-BQ4134 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e6"},"title":"Lenovo IdeaPad 3 15ITL6 Arctic Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e7"},"title":"HP Laptop 14-EM0007ua Diamond White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e8"},"title":"ASUS ROG Strix SCAR 17 G733PY-LL020X","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1e9"},"title":"ACER Swift X SFX14-71G-76A8 Steel Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ea"},"title":"ASUS Vivobook Pro 16X K6604JV-K8079 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1eb"},"title":"HP ProBook 455 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ec"},"title":"HP Probook 440-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ed"},"title":"ACER Aspire 3 A315-35-C59M Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ee"},"title":"ACER Enduro N3 EN314 - 51W Shale Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ef"},"title":"HP Probook 440-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f0"},"title":"HP ProBook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f1"},"title":"Acer Aspire 3 A317-55P-P9JR Steel Gray","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f2"},"title":"HP EliteBook 645 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f3"},"title":"ACER Aspire 3 A315-35-P557","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f4"},"title":"HP Dragonfly-G4 Slate Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f5"},"title":"HP ProBook 445 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f6"},"title":"APPLE MacBook Air M2 512GB Starlight","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f7"},"title":"ACER Aspire 3 15 A315-24P-R6M5 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f8"},"title":"ACER Nitro 17 AN17-71 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1f9"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1fa"},"title":"HP 17-cn3002ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1fb"},"title":"ACER Aspire 3 A315-510P Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1fc"},"title":"Lenovo ThinkPad X1 Extreme 5 Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1fd"},"title":"2E Complex Pro 17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1fe"},"title":"Lenovo IdeaPad 3 15IAU7 Arctic Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b1ff"},"title":"ASUS TUF Gaming F15 FX507ZC4-HN081 Mecha Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b200"},"title":"Lenovo IdeaPad 3 15ALC6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b201"},"title":"ACER Predator Helios 18 PH18-71","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b202"},"title":"HP ProBook 455 G8","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b203"},"title":"HP ZBook Power G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b204"},"title":"ASUS X712EA-BX819 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b205"},"title":"HP 250-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b206"},"title":"HP Probook 450-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b207"},"title":"ACER Predator Helios Neo 16 PHN16-71 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b208"},"title":"Lenovo ThinkPad P16v Gen 1 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b209"},"title":"HP 15-fc0013ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b20a"},"title":"HP Dragonfly-G4 Slate Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b20b"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b20c"},"title":"Lenovo Ideapad Gaming 3 15IHU6 Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b20d"},"title":"LENOVO Legion 5 15ach6h Phantom Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b20e"},"title":"APPLE MacBook Pro M2 Pro 16' 1TB Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b20f"},"title":"ACER Extensa EX215-23","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b210"},"title":"HP Pavilion 15-eh1063ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b211"},"title":"ASUS Vivobook 16 X1605ZA-MB331 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b212"},"title":"APPLE MacBook Pro M3 Max 16' 48GB/1TB Space Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b213"},"title":"LENOVO Yoga Pro 7 14IRH8 Tidal Teal","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b214"},"title":"ACER Swift X SFX16-61G Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b215"},"title":"HP 250 G10 Turbo Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b216"},"title":"APPLE MacBook Pro M3 14' 512GB Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b217"},"title":"ASUS ROG Zephyrus G14 GA402NJ-L8099 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b218"},"title":"Lenovo ThinkPad P16 Gen 1 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b219"},"title":"ACER Predator Helios 300 PH315-55 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b21a"},"title":"ACER Aspire 3 15 A315-24P-R8Y4 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b21b"},"title":"ACER Aspire 5 14 A514-56M-37XF","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b21c"},"title":"ASUS ROG Strix Scar 18 G834JY-N6078X Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b21d"},"title":"APPLE MacBook Pro M3 14' 512GB Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b21e"},"title":"ASUS ROG Flow X16 GV601VV-NF034 Off Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b21f"},"title":"HP ZBook Power G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b220"},"title":"ACER TravelMate P2 16 TMP216-51-35AV Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b221"},"title":"HP 17-cn3015ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b222"},"title":"ASUS ExpertBook B9 B9400CEA-KC0613R Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b223"},"title":"HP Pavilion 15-eg3022ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b224"},"title":"HP EliteBook 640 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b225"},"title":"HP 240 G10 Dark ash silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b226"},"title":"LENOVO Legion Slim 7 16IRH8","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b227"},"title":"HP ZBook Firefly 16 G10 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b228"},"title":"HP Pavilion 15-eg2037ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b229"},"title":"ACER Swift 14 SF14-71T Steam Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b22a"},"title":"ACER Aspire 5 A517-53G Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b22b"},"title":"DREAM MACHINES RS3080-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b22c"},"title":"HP Probook 445-G10 Touch Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b22d"},"title":"ACER Aspire 3 A315-510P Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b22e"},"title":"Lenovo Yoga 7 14ARP8 Storm Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b22f"},"title":"LENOVO IdeaPad 3 14ITL6 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b230"},"title":"ACER Aspire 3 A315-35-P0QF Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b231"},"title":"HP OMEN Transcend 16-u0000ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b232"},"title":"ACER Aspire 3 A315-23-R2D7 Charcoal Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b233"},"title":"ASUS Vivobook S 15 OLED K5504VN-L1032WS Midnight Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b234"},"title":"HP 255-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b235"},"title":"ASUS ExpertBook B1502CGA-NJ0322XA Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b236"},"title":"ACER Predator Helios Neo 16 PHN16-71","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b237"},"title":"APPLE MacBook Pro M2 Pro 14' 512GB 2023 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b238"},"title":"Lenovo IdeaPad Gaming 3 15ACH6 Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b239"},"title":"ACER Nitro 5 AN517-54-50KQ Shale Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b23a"},"title":"ACER Aspire 5 A515-56G-58M2 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b23b"},"title":"APPLE MacBook Pro M3 Pro 14' 512GB Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b23c"},"title":"ACER Extensa 15 EX215-32-P785 Charcoal Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b23d"},"title":"Lenovo ThinkPad X1 Yoga G8 T","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b23e"},"title":"ASUS ROG Strix Scar 17 G733PZ-LL067W Off Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b23f"},"title":"HP 15-fc0010ua White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b240"},"title":"HP Probook 440-G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b241"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b242"},"title":"HP ZBook Power G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b243"},"title":"HP EliteBook 860-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b244"},"title":"APPLE MacBook Pro M3 Pro 16' 18GB/512GB Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b245"},"title":"PRESTIGIO SmartBook 133 C4 Dark Gray","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b246"},"title":"HP 255-G9","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b247"},"title":"ASUS Vivobook 15 X1504VA-BQ500 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b248"},"title":"LENOVO IdeaPad 5 14ITL05 Graphite Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b249"},"title":"HP EliteBook 1040 G10 x360 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b24a"},"title":"Asus Vivobook Go 15 E510KA-EJ381 Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b24b"},"title":"ACER Aspire 5 A517-53G Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b24c"},"title":"LENOVO LOQ 15IRH8 Storm Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b24d"},"title":"ASUS Vivobook Pro 16X OLED K6604JV-MX075 Cool Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b24e"},"title":"ASUS X515EA-BQ3226 Transparent Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b24f"},"title":"ACER Extensa 15 EX215-54-34C9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b250"},"title":"ACER Enduro Urban N3 EUN314-51W Hunter Green","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b251"},"title":"HP ProBook 455 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b252"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b253"},"title":"HP Victus 16-s0006ua Mica Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b254"},"title":"LENOVO ThinkPad T14 G3 T Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b255"},"title":"ASUS X515MA-EJ450 Slate Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b256"},"title":"LENOVO TB 15 G4 IAP","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b257"},"title":"HP EliteBook 840 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b258"},"title":"HP 240 G10 Dark ash silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b259"},"title":"ACER Extensa 15 EX215-22-R19V Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b25a"},"title":"LENOVO V15 G3 ABA Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b25b"},"title":"HP ZBook Firefly 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b25c"},"title":"ASUS X515JA-EJ2804 Peacock Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b25d"},"title":"HP ProBook 440 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b25e"},"title":"HP ZBook Power G10A","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b25f"},"title":"HP 250 G10 Turbo silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b260"},"title":"LENOVO V14 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b261"},"title":"Lenovo ThinkPad X1 Extreme 5 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b262"},"title":"HP 250 G8 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b263"},"title":"HP 250 G8 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b264"},"title":"Asus Vivobook Pro 16X OLED K6604JV-MX076 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b265"},"title":"Asus Vivobook Pro 16X OLED K6604JV-MX076 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b266"},"title":"HP 250 G8 Dark Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b267"},"title":"Lenovo ThinkPad T14 Gen 4 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b268"},"title":"APPLE A2681 MacBook Air 13' M2 256GB Space Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b269"},"title":"HP Probook 450-G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b26a"},"title":"HP ProBook 450 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b26b"},"title":"2E Complex Pro 15 Silver","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b26c"},"title":"Asus ROG Flow X13 GV302XI-MU008W Off Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b26d"},"title":"ASUS TUF GAMING F15 FX506HC-HN057 Graphite Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b26e"},"title":"HP ProBook 445 G8 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b26f"},"title":"ASUS ProArt StudioBook Pro 16 OLED H7604JV-MY058 Mineral Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b270"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b271"},"title":"HP 250 G8 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b272"},"title":"HP ProBook 440 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b273"},"title":"HP Probook 450-G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b274"},"title":"HP Victus 16-d1006ua Performance Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b275"},"title":"HP EliteBook 630 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b276"},"title":"ACER Aspire 5 Spin 14 A5SP14-51MTN-59MH Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b277"},"title":"ASUS ZenBook Pro 16X OLED UX7602ZM-ME174W Tech Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b278"},"title":"HP Pavilion 15-eh1058ua Fog blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b279"},"title":"ASUS Laptop X515MA-EJ624 Slate Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b27a"},"title":"ACER Aspire 3 A315-35-C2L7 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b27b"},"title":"ASUS Vivobook Pro 15 M6500QB-HN042 Quiet Blue","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b27c"},"title":"ASUS Vivobook Pro 15 K6500ZC-HN365 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b27d"},"title":"ASUS Zenbook S 13 OLED UM5302LA-LV036W Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b27e"},"title":"ASUS Vivobook 17 X1704VA-AU113 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b27f"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b280"},"title":"ACER Aspire 5 A515-58P Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b281"},"title":"HP 250-G9 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b282"},"title":"ACER Aspire 5 A517-53G Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b283"},"title":"ASUS ProArt Studiobook Pro 16 OLED Mineral Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b284"},"title":"ACER Aspire 5 15 A515-48M-R836 Steel Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b285"},"title":"Lenovo ThinkBook 16p G2 ACH Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b286"},"title":"HP OMEN 17-ck2010ua Shadow Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b287"},"title":"ASUS Zenbook 14 OLED UX3402ZA-KM390X Ponder Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b288"},"title":"Acer Enduro Urban N3 Denim Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b289"},"title":"ACER Swift 3 SF314-43 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b28a"},"title":"Lenovo ThinkPad L14 Gen 4 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b28b"},"title":"HP Laptop 14-EM0010ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b28c"},"title":"HP Pavilion 15-eh1059ua Natural silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b28d"},"title":"HP 245 G8 Dark Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b28e"},"title":"ASUS Vivobook 16X K3605ZU-MX030","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b28f"},"title":"ASUS Vivobook Pro 15 M6500IH-HN095 Quiet Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b290"},"title":"Lenovo ThinkBook 15 G4 IAP Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b291"},"title":"DREAM MACHINES RG3050Ti-17 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b292"},"title":"APPLE MacBook Air 15' M2 512GB Starlight","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b293"},"title":"HP ProBook 445 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b294"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b295"},"title":"HP ZBook Firefly G10 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b296"},"title":"HP 255-G9 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b297"},"title":"ASUS ExpertBook B1 B1502CBA-BQ0495 Star Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b298"},"title":"HP EliteBook 655 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b299"},"title":"ASUS ROG Strix Scar 18 G834JY-N6082X","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b29a"},"title":"HP Probook 470-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b29b"},"title":"HP 255-G9 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b29c"},"title":"Lenovo ThinkBook 14 G6 ABP Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b29d"},"title":"HP EliteBook 1040 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b29e"},"title":"ACER Aspire 3 A315-35-P20V Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b29f"},"title":"HP EliteBook 1040 G10 x360 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a0"},"title":"HP ZBook Firefly 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a1"},"title":"Asus ROG Zephyrus Duo 16 GX650PY-NM025X Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a2"},"title":"HP Victus 16-s0002ua Mica Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a3"},"title":"HP ZBook Power G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a4"},"title":"DREAM MACHINES RS3060-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a5"},"title":"HP ZBook Power G10A Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a6"},"title":"ASUS UM3504DA-NX132","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a7"},"title":"Lenovo IdeaPad 5 15ABA7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a8"},"title":"ACER Nitro 5 AN515-57-57ML","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2a9"},"title":"HP ProBook 450 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2aa"},"title":"HP ZBook Firefly 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ab"},"title":"Asus ROG Strix G16 G614JZ-N4031W Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ac"},"title":"HP EliteBook 860-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ad"},"title":"Lenovo IdeaPad 3 15IGL Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ae"},"title":"Asus ROG Zephyrus G16 GU603ZU-N4013 Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2af"},"title":"HP Elite Dragonfly G4 Slate Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b0"},"title":"Acer Enduro Urban N3 Lite EUN314LA-51W-72BE Polaris Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b1"},"title":"HP Pavilion 15-eh1022ua Foggy Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b2"},"title":"HP Probook 470-G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b3"},"title":"ASUS Vivobook Pro 16X K6604JV-K8081 Cool Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b4"},"title":"Lenovo ThinkPad P1 G5 T Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b5"},"title":"ACER Predator Triton 17X PTX17-71","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b6"},"title":"Lenovo ThinkPad T14s Gen 3 Thunder Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b7"},"title":"HP Pavilion 14-dv2021ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b8"},"title":"2E Imaginary 15","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2b9"},"title":"HP Pavilion Plus 14-eh1006ua Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ba"},"title":"HP Victus 16-d1008ua Performance Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2bb"},"title":"HP ZBook Studio G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2bc"},"title":"LENOVO IdeaPad 1 15ADA7 Cloud Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2bd"},"title":"HP ProBook 450 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2be"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2bf"},"title":"Lenovo ThinkBook 16p G3 ARH Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c0"},"title":"HP Probook 455 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c1"},"title":"Lenovo ThinkBook 15 G4 IAP Mineral Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c2"},"title":"HP 15s-fq5023ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c3"},"title":"ASUS Vivobook 16X OLED K3605ZU-MX028 Indie Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c4"},"title":"Acer Aspire 3 A315-35-P891 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c5"},"title":"DREAM MACHINES RT3050-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c6"},"title":"LENOVO ThinkBook 15 G3 ACL Mineral Grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c7"},"title":"Asus ProArt Studiobook 16 OLED H7604JI-MY064 Mineral Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c8"},"title":"HP ProBook 450 G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2c9"},"title":"HP ZBook Firefly 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ca"},"title":"HP Probook 470-G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2cb"},"title":"HP ProBook 450 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2cc"},"title":"Asus Vivobook 15 X1502ZA-BQ2007 Icelight Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2cd"},"title":"HP EliteBook 630 G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ce"},"title":"HP ProBook 455 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2cf"},"title":"Lenovo IdeaPad Slim 5 16IAH8 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d0"},"title":"Lenovo IdeaPad Gaming 3 16ARH7 Onyx Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d1"},"title":"HP Probook 470-G10 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d2"},"title":"ACER Aspire 3 A315-35-C3RE Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d3"},"title":"HP Pavilion Aero 13-be2010ua Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d4"},"title":"HP ZBook Firefly 16 G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d5"},"title":"HUAWEI MateBook 13 Space Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d6"},"title":"HP 255-G9 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d7"},"title":"DREAM MACHINES RX770M-17 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d8"},"title":"HP 15s-fq5017ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2d9"},"title":"ACER Swift 3 SF314-43 Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2da"},"title":"Lenovo IdeaPad Slim 3 15IRU8 Arctic Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2db"},"title":"HP ZBook Power G10 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2dc"},"title":"HP Dragonfly-G4 Slate Blue","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2dd"},"title":"Lenovo IdeaPad Gaming 3 15ACH6 Shadow Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2de"},"title":"Lenovo ThinkPad P14s G4 T","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2df"},"title":"НР ProBook 445 G8 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e0"},"title":"ASUS ROG Strix G16 G614JZ-N4064W Eclipse Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e1"},"title":"DREAM MACHINES RT3070Ti-15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e2"},"title":"HP EliteBook 865-G10","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e3"},"title":"HP Probook 470-G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e4"},"title":"ACER Aspire Vero AV15-53P-77HQ Cobblestone Gray","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e5"},"title":"Lenovo V15 Gen 3 IAP Business Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e6"},"title":"HP ZBook Firefly G10A","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e7"},"title":"HP ProBook 450 G10 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e8"},"title":"HP EliteBook 640 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2e9"},"title":"HP EliteBook 640 G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ea"},"title":"HP Probook 450-G10 Natural Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2eb"},"title":"HP Pavilion 15-eg3005ua Ceramic White","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ec"},"title":"HP 470-G9 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ed"},"title":"Lenovo IdeaPad Slim 3 15IRU8 Abyss Blue","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ee"},"title":"ACER TravelMate P2 TMP215-54 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ef"},"title":"ACER Predator Helios 300 PH317-56 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f0"},"title":"Lenovo V15 G3 IAP Business Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f1"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f2"},"title":"HP Pavilion 15-eh1057ua Warm gold","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f3"},"title":"ACER Nitro 17 AN17-41-R6KH Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f4"},"title":"HP Envy 16-h1011ua","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f5"},"title":"Lenovo IdeaPad 1 15IAU7 Cloud Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f6"},"title":"HP 250-G9 Dark Ash Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f7"},"title":"HP 250 G9 Asteroid Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f8"},"title":"HP ProBook 445 G8 Pike Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2f9"},"title":"Lenovo IdeaPad Gaming 3 16IAH7 Onyx Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2fa"},"title":"ASUS Vivobook K3605ZU-N1038","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2fb"},"title":"2E Complex Pro 15 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2fc"},"title":"HP 250-G9 Grey","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2fd"},"title":"LENOVO IdeaPad 3 15IML05 Business Black","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2fe"},"title":"HP ZBook Power G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b2ff"},"title":"HP ZBook Power G10 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b300"},"title":"ACER Aspire 3 A315-58G-30KH Pure Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b301"},"title":"2E Rational 15 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b302"},"title":"ACER Nitro 17 AN17-41-R5B4 Black","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b303"},"title":"HP EliteBook 1040 G10 x360 Silver","rating":4}
+{"_id":{"$oid":"659c1a975f80f4f0b802b304"},"title":"Lenovo IdeaPad 3 15ALC6 Arctic grey","rating":5}
+{"_id":{"$oid":"659c1a975f80f4f0b802b305"},"title":"HP Elite Dragonfly Folio G3 Black","rating":4}
