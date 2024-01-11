@@ -1,0 +1,306 @@
+openapi: 3.0.0
+info:
+  title: LappY
+  version: 0.0.1
+servers:
+  - url: http://{ip}:{port}
+    description: Development server
+    variables:
+      port:
+        default: '8080'
+      ip:
+        default: localhost
+paths:
+  /news/search/:
+    get:
+      tags:
+        - News
+      summary: Get Search Results
+      description: |-
+        Find articles by search query
+
+        Get list of articles which match with search query from database.
+        If count of articles is less than 10, scrap new articles and add
+        them to a database. If 'find' param is empty, return newest
+        articles.
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: find
+          in: query
+          required: false
+          schema:
+            type: string
+            description: Write search query here
+            title: Find
+          description: Write search query here
+        - name: page
+          in: query
+          required: false
+          schema:
+            type: integer
+            minimum: 1
+            title: Page
+        - name: limit
+          in: query
+          required: false
+          schema:
+            type: integer
+            maximum: 10
+            minimum: 1
+            title: Limit
+        - name: period
+          in: query
+          required: false
+          schema:
+            allOf:
+              - $ref: '#/components/schemas/Period'
+            title: Period
+      responses:
+        '200':
+          description: Successful Response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SearchResponseModel'
+        '422':
+          description: Validation Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HTTPValidationError'
+  /news/{id}/:
+    get:
+      tags:
+        - News
+      summary: Get Article
+      description: |-
+        Get concrete article with content
+
+        Find article by ID in database and if it exists, check if it
+        has content in 'content' field. If it is, return it, else scrap
+        this content. If article does not exist in db, return 404.
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            title: 'Id '
+      responses:
+        '200':
+          description: Successful Response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ExtendArticleModel'
+        '422':
+          description: Validation Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HTTPValidationError'
+components:
+  schemas:
+    ArticleModel:
+      properties:
+        id:
+          type: string
+          title: Id
+        link:
+          type: string
+          maxLength: 2083
+          minLength: 1
+          format: uri
+          title: Link
+        title:
+          type: string
+          title: Title
+        author:
+          anyOf:
+            - type: string
+            - type: integer
+              nullable: true
+          title: Author
+        image:
+          anyOf:
+            - type: string
+              maxLength: 2083
+              minLength: 1
+              format: uri
+            - type: integer
+              nullable: true
+          title: Image
+        date:
+          anyOf:
+            - type: string
+              format: date-time
+            - type: integer
+              nullable: true
+          title: Date
+        description:
+          type: string
+          title: Description
+          default: ''
+      type: object
+      required:
+        - id
+        - link
+        - title
+      title: ArticleModel
+      example:
+        id: 659bcd15b6956ec3a35f01e4
+        link: https://www.laptopmag.com/reviews/best-chromebooks-6
+        title: Best Chromebooks of 2024
+        author: Mark Anthony Ramirez
+        image: https://cdn.mos.cms.futurecdn.net/9JMTNPNLsXdsEFs8KBK2x8.jpg
+        date: '2024-01-03T21:43:44Z'
+        description: What is the best Chromebook of 2024? No matter what your needs we have the perfect Chromebook for you based on our testing and reviews.
+
+    ExtendArticleModel:
+      properties:
+        id:
+          type: string
+          title: Id
+        link:
+          type: string
+          maxLength: 2083
+          minLength: 1
+          format: uri
+          title: Link
+        title:
+          type: string
+          title: Title
+        author:
+          anyOf:
+            - type: string
+            - type: integer
+              nullable: true
+          title: Author
+        image:
+          anyOf:
+            - type: string
+              maxLength: 2083
+              minLength: 1
+              format: uri
+            - type: integer
+              nullable: true
+          title: Image
+        date:
+          anyOf:
+            - type: string
+              format: date-time
+            - type: integer
+              nullable: true
+          title: Date
+        description:
+          type: string
+          title: Description
+          default: ''
+        content:
+          items:
+            items: {}
+            type: array
+          type: array
+          title: Content
+          default: []
+      type: object
+      required:
+        - id
+        - link
+        - title
+      title: ExtendArticleModel
+      example:
+        id: 659bcd14b6956ec3a35f01dd
+        link: https://www.laptopmag.com/articles/best-laptop-for-sims-4
+        title: 'Help me, Laptop: What''s the best laptop for The Sims 4?'
+        author: Rami Tabari
+        image: https://cdn.mos.cms.futurecdn.net/TMRAepQbmLqSX6dss5M4NF.jpg
+        date: '2022-10-21T16:16:26Z'
+        description: You needn't spend thousands of dollars on a gaming laptop to play some of the best PC games, especially if you're into titles that aren't very resource-heavy.
+        content:
+          - - paragraph
+            - You needn't spend thousands of dollars on a gaming laptop to play some of the best PC games, especially if you're into titles that aren't resource-heavy. There are plenty of budget-friendly laptops under $500 that are picture-perfect for light gaming, so when a forum user asked which laptop is best for satisfying their Sims fix, we were happy to help. It's time for a deep dive down the spec requirement rabbit hole.
+          - - image
+            - https://cdn.mos.cms.futurecdn.net/NU64gMT2odgW5YFw9vNNgE.jpg
+          - - paragraph
+            - Nevnev writes, "I'm looking to get a laptop to primarily play The Sims 4. After thinking I knew about laptops and technology, I am now majorly confused when it comes to gaming specs! So, I have found a laptop but not sure if it fits the specs? if anyone can help out, I would be grateful."
+          - - paragraph
+            - Nevnev was originally considering an Acer Aspire 1 with an Intel Celeron N3350 processor, but that system barely has enough power to run very light games. Let's run through the required specs for The Sims 4.
+          - - title
+            - Minimum and recommended specs for The Sims 4
+          - - paragraph
+            - 'An easy choice is the 15.6-inch Acer Aspire E 15, which comes outfitted with an Intel Core i3-8130U processor, Intel UHD 620 GPU, 6GB of RAM and a 1TB HDD. (For a few more bucks, you can opt for a zippier Core i5 CPU and more powerful Nvidia GeForce MX150 GPU.) This is enough power to get you above 30 frames per second on The Sims 4, and on top of that, you''ll benefit from a wide range of ports and long battery life (8:48). '
+          - - image
+            - https://cdn.mos.cms.futurecdn.net/tPa8B9ruuwg6TREFJrL5Do.jpg
+          - - paragraph
+            - 'A solid alternative is the Huawei MateBook D 14-inch (AMD). For less than $700, you get a 2.0-GHz AMD Ryzen 5 2500U processor, 8GB of RAM, a 256GB SSD and an AMD Radeon Vega 8 Mobile GPU. It has a little more kick than the Aspire E 15, and it features a full aluminum chassis in a slimmer 14-inch build. It also has a tactile keyboard and an even longer battery life (9:16). '
+          - - image
+            - https://cdn.mos.cms.futurecdn.net/WtRQMfGcMYcW9BQQF8JPgi.jpg
+          - - paragraph
+            - If you're looking for a more premium machine, the MSI PS42 8RB Prestige ($1,299) is a solid choice, as it's packed with an Intel Core i7-8550U CPU, 16GB of RAM, a 512GB SSD and an Nvidia GeForce MX150 GPU. Featuring a slim 0.6-inch design and a wide variety of ports, it has a vivid 14-inch panel that beats the screens from the Aspire and MateBook, but its battery life (6:22) isn't anywhere near as long as what you get from those machines.
+          - - paragraph
+            - 'Any of these systems should satisfy the minimum requirements for The Sims 4, but if you''re in the market for more powerful gaming laptops, we''ve got you covered from every angle. For example, we can help you find the best laptop under $500 or the best business laptops for working from home. '
+          - - paragraph
+            - Want to turn your laptop into a gaming console? We can help with that, too.
+
+    HTTPValidationError:
+      properties:
+        detail:
+          items:
+            $ref: '#/components/schemas/ValidationError'
+          type: array
+          title: Detail
+      type: object
+      title: HTTPValidationError
+    Period:
+      type: string
+      enum:
+        - last-week
+        - last-month
+        - all
+      title: Period
+    SearchResponseModel:
+      properties:
+        count:
+          type: integer
+          title: Count
+          example: 1
+        results:
+          items:
+            $ref: '#/components/schemas/ArticleModel'
+          type: array
+          title: Results
+      type: object
+      required:
+        - count
+        - results
+      title: SearchResponseModel
+    ValidationError:
+      properties:
+        loc:
+          items:
+            anyOf:
+              - type: string
+              - type: integer
+          type: array
+          title: Location
+        msg:
+          type: string
+          title: Message
+        type:
+          type: string
+          title: Error Type
+      type: object
+      required:
+        - loc
+        - msg
+        - type
+      title: ValidationError
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
