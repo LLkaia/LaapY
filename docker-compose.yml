@@ -80,11 +80,9 @@ services:
       - 'lappy_network'
 
   mongodb:
-    image: mongodb/mongodb-community-server
+    build: mongodb/
     container_name: mongodb
-    volumes:
-      - ./data/mongo:/mongo
-    command: "mongo/init-mongo.sh"
+    command: "mongod"
     networks:
       - 'lappy_network'
 

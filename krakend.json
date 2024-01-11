@@ -94,7 +94,7 @@
                   "url_pattern": "/laptop_ratings?title={resp0_model}",
                   "method": "GET",
                   "host": [
-                      "http://rating_app:8004"
+                      "http://rating-app:8004"
                   ],
                   "input_query_strings": [
                       "title"
