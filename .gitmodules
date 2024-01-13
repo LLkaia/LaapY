@@ -14,3 +14,4 @@
 [submodule "auth_system"]
 	path = auth_system
 	url = https://github.com/yurakomarnitskyi/auth_system.git
+	branch = telegram-disable
