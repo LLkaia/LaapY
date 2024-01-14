@@ -76,6 +76,8 @@ services:
       - POSTGRES_DB=auth_system
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
     networks:
       - 'lappy_network'
 
@@ -102,6 +104,7 @@ services:
 
 volumes:
   redis_data:
+  postgres_data:
 
 networks:
   lappy_network:
