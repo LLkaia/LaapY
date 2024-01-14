@@ -102,6 +102,308 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/HTTPValidationError'
+                
+  /user/register:
+    post:
+      tags:
+        - Authentication
+      summary: Register a new user
+      description: Creates a new user account
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - email
+                - name
+                - password
+                - re_password
+              properties:
+                email:
+                  type: string
+                  format: email
+                  example: komarnickijura@gmail.com
+                name:
+                  type: string
+                  example: Jon Jons
+                password:
+                  type: string
+                  minLength: 8
+                  example: 1234132yhtyght65656
+                re_password:
+                  type: string
+                  minLength: 8
+                  example: 1234132yhtyght65656
+      responses:
+        '201':
+          description: User created successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                    example: 1
+                  email:
+                    type: string
+                    example: komarnickijura@gmail.com
+                  name:
+                    type: string
+                    example: Jon Jons
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/InvalidEmailError'
+                  - $ref: '#/components/schemas/PasswordsDoNotMatchError'
+                  - $ref: '#/components/schemas/ExistingUserError'
+                  - $ref: '#/components/schemas/PasswordTooShortError'
+                  - $ref: '#/components/schemas/PasswordEntirelyNumericError'
+
+  /user/activate:
+    post:
+      tags:
+        - Authentication
+      summary: Activate a user account
+      description: Activates a user's account using a provided activation token
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - uid
+                - token
+              properties:
+                uid:
+                  type: string
+                  example: Mg
+                token:
+                  type: string
+                  example: c0cwaz-8000073bf25813e493ccc500410f36d4
+      responses:
+        '204':
+          description: Account activated successfully
+        '400':
+          description: Bad request (e.g., invalid uid or token)
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/InvalidActivationTokenError'
+                  - $ref: '#/components/schemas/UserAlreadyActivatedError'
+        '403':
+          description: Forbidden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/StaleTokenError'
+
+  /user/login:
+    post:
+      tags:
+        - Authentication
+      summary: Create a JSON Web Token for user authentication
+      description: Authenticates a user and generates a JWT for subsequent API access
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - email
+                - password
+              properties:
+                email:
+                  type: string
+                  format: email
+                  example: komarnickijura@gmail.com
+                password:
+                  type: string
+                  example: newgoodpassword2001
+      responses:
+        '200':
+          description: Login successful
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  access:
+                    type: string
+                    example: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9... (JWT content)
+                  refresh:
+                    type: string
+                    example: 8xLOxB5-5t5154a00014a154a004a0041 (optional refresh token)
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/InactiveAccountError'
+
+  /user/refresh:
+    post:
+      tags:
+        - Authentication
+      summary: Refresh an access token using a refresh token
+      description: Generates a new access token based on a valid refresh token
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - refresh
+              properties:
+                refresh:
+                  type: string
+                  example: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MT...
+      responses:
+        '200':
+          description: Access token refreshed successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  access:
+                    type: string
+                    example: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9... (new JWT content)
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/MissingRefreshTokenError'
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/InvalidTokenError'
+                  - $ref: '#/components/schemas/StaleTokenError'
+                  - $ref: '#/components/schemas/InvalidOrExpiredTokenError'
+
+  /user/me/reset-password:
+    post:
+      tags:
+        - Authentication
+      summary: Initiate a password reset request for a user
+      description: Generates a password reset token and sends a reset email to the user
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - email
+              properties:
+                email:
+                  type: string
+                  format: email
+                  example: komarnickijura@gmail.com
+      responses:
+        '204':
+          description: Password reset request sent successfully
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/InvalidEmailError'
+
+  /user/me/reset-password/confirm:
+    post:
+      tags:
+        - Authentication
+      summary: Confirm a password reset request and update the user's password
+      description: Validates the password reset token and sets a new password for the user
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - uid
+                - token
+                - new_password
+                - re_new_password
+              properties:
+                uid:
+                  type: string
+                  example: Mg
+                token:
+                  type: string
+                  example: c0cwj1-7c40adff502181553d428d5817015549
+                new_password:
+                  type: string
+                  example: newgoodpassword2001
+                re_new_password:
+                  type: string
+                  example: newgoodpassword2001
+      responses:
+        '204':
+          description: Password successfully changed
+        '400':
+            description: Bad request
+            content:
+              application/json:
+                schema:
+                  oneOf:
+                    - $ref: '#/components/schemas/InvalidTokenForUserError'    
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/InvalidOrExpiredTokenError'
+  
+  /user/me/delete:
+    delete:
+      tags:
+        - Authentication
+      summary: Delete the current user's account
+      description: Permanently removes the user's account and associated data
+      security:
+        - bearerAuth: []  
+      requestBody:       
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                current_password:
+                  type: string
+                  example: newgoodpassword2001
+      
+      responses:
+        '204':
+          description: User account deleted successfully
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/InvalidPasswordError'
+        '401':
+          description: Unauthorized
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/InvalidOrExpiredTokenError'
+                  - $ref: '#/components/schemas/UserNotFoundError'
 components:
   schemas:
     ArticleModel:
@@ -246,6 +548,23 @@ components:
           - - paragraph
             - Want to turn your laptop into a gaming console? We can help with that, too.
 
+    UserModel:
+      type: object
+      properties:
+        email:
+          type: string
+          format: email
+          example: user@example.com
+        name:
+          type: string
+          example: John Doe
+        is_active:
+          type: boolean
+          example: true
+        is_staff:
+          type: boolean
+          example: false
+
     HTTPValidationError:
       properties:
         detail:
@@ -299,6 +618,128 @@ components:
         - msg
         - type
       title: ValidationError
+    InvalidEmailError:
+      type: object
+      properties:
+        email:
+          type: array
+          items:
+            type: string
+            example: "Enter a valid email address."
+    PasswordsDoNotMatchError:
+      type: object
+      properties:
+        passwords:
+          type: string
+          example: "Passwords do not match."
+    ExistingUserError:
+      type: object
+      properties:
+        email:
+          type: array
+          items:
+            type: string
+            example: "User account with this email already exists."
+    InvalidActivationTokenError:
+      type: object
+      properties:
+        token:
+          type: string
+          example: "Invalid activation token."
+    UserAlreadyActivatedError:
+      type: object
+      properties:
+        message:
+          type: string
+          example: "User account is already activated."
+    PasswordTooShortError:
+      type: object
+      properties:
+        password:
+          type: string
+          example: "This password is too short. It must contain at least 8 characters."
+    PasswordEntirelyNumericError:
+      type: object
+      properties:
+        password:
+          type: string
+          example: "This password is entirely numeric."
+    StaleTokenError:
+      type: object
+      properties:
+        detail:
+          type: string
+          example: "Stale token for given user."
+    InactiveAccountError:
+      type: object
+      properties:
+        detail:
+          type: string
+          example: "No active account found with the given credentials"
+    InvalidTokenError:
+      type: object
+      properties:
+        token:
+          type: array
+          items:
+            type: string
+            example: "Invalid token for given user."
+    MissingRefreshTokenError:
+      type: object
+      properties:
+        refresh:
+          type: array
+          items:
+            type: string
+            example: "This field may not be blank."
+    InvalidOrExpiredTokenError:
+      type: object
+      properties:
+        detail:
+          type: string
+          example: "Given token not valid for any token type"
+        code:
+          type: string
+          example: "token_not_valid"
+        messages:
+          type: array
+          items:
+            type: object
+            properties:
+              token_class:
+                type: string
+                example: "AccessToken"
+              token_type:
+                type: string
+                example: "access"
+              message:
+                type: string
+                example: "Token is invalid or expired"
+    InvalidTokenForUserError:
+      type: object
+      properties:
+        token:
+          type: array
+          items:
+            type: string
+            example: "Invalid token for given user."
+    UserNotFoundError:
+      type: object
+      properties:
+        detail:
+          type: string
+          example: "User not found"
+        code:
+          type: string
+          example: "user_not_found"
+    InvalidPasswordError:
+      type: object
+      properties:
+        current_password:
+          type: array
+          items:
+            type: string
+            example: "Invalid password."
   securitySchemes:
     bearerAuth:
       type: http

@@ -327,7 +327,7 @@
                 "encoding": "no-op"
             }
           ],
-          "input_headers": ["Content-Length", "Content-Type", "Authorization"]
+          "input_headers": ["Content-Length", "Content-Type"]
         },
         {
           "endpoint": "/user/me/reset-password/confirm",
