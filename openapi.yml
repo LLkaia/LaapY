@@ -404,6 +404,196 @@ paths:
                 oneOf:
                   - $ref: '#/components/schemas/InvalidOrExpiredTokenError'
                   - $ref: '#/components/schemas/UserNotFoundError'
+  /questions:
+    post:
+      tags:
+        - Question
+      summary: Post a Question
+      description: >
+        This endpoint allows users to post questions related to specific laptops.
+        Users need to provide the laptop's ID, name, and their question text. 
+        The endpoint requires bearer token authentication for security purposes. 
+        Upon successful posting, it returns the details of the posted question 
+        including the user's information.
+      security:
+        - bearerAuth: [ ]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                laptop_id:
+                  type: string
+                laptop_name:
+                  type: string
+                comment_text:
+                  type: string
+              required:
+                - laptop_id
+                - laptop_name
+                - comment_text
+      responses:
+        '200':
+          description: Successfully posted the question
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                  parent_comment_id:
+                    type: string
+                    nullable: true
+                  user:
+                    type: integer
+                  user_name:
+                    type: string
+                  laptop_id:
+                    type: string
+                  laptop_name:
+                    type: string
+                  comment_text:
+                    type: string
+                  created_at:
+                    type: string
+                    format: date-time
+        '400':
+          description: Bad Request - Invalid request format
+        '401':
+          description: Unauthorized - Invalid or no authentication token
+    get:
+      tags:
+        - Question
+      summary: Retrieve Questions
+      description: >
+        This endpoint retrieves a list of questions related to a specific laptop 
+        identified by its ID. It is a public endpoint and does not require 
+        authentication. The response includes details such as the question ID, 
+        user information, laptop ID and name, the text of the question, and 
+        the creation timestamp.
+      parameters:
+        - name: laptop_id
+          in: query
+          required: true
+          schema:
+            type: string
+          description: The ID of the laptop to retrieve questions for.
+      responses:
+        '200':
+          description: A list of questions related to the specified laptop
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                    parent_comment_id:
+                      type: string
+                      nullable: true
+                    user:
+                      type: integer
+                    user_name:
+                      type: string
+                    laptop_id:
+                      type: string
+                    laptop_name:
+                      type: string
+                    comment_text:
+                      type: string
+                    created_at:
+                      type: string
+                      format: date-time
+        '400':
+          description: Bad Request - Invalid request format
+  /favorites:
+    get:
+      tags:
+        - Favorites
+      summary: Retrieve Favorites List
+      description: >
+        This endpoint is used for retrieving a user's favorites list. It caters 
+        to both authorized and unauthorized users. Authorized users need to 
+        include the Authorization header in their request, while unauthorized 
+        users should use a Cookie header. The endpoint returns the user's list 
+        of favorite laptops.
+      parameters:
+        - name: Cookie
+          in: header
+          required: false
+          schema:
+            type: string
+          description: Cookie header for unauthorized users.
+        - name: Authorization
+          in: header
+          required: false
+          schema:
+            type: string
+          description: Authorization header for authorized users.
+      responses:
+        '200':
+          description: A list of favorite laptops
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  # Define the properties of the laptop object as per your requirements
+        '400':
+          description: Bad Request - Invalid request format
+    post:
+      tags:
+        - Favorites
+      summary: Save to Favorites
+      description: >
+        This endpoint allows users to save a laptop to their favorites list. 
+        Users can provide the laptop's ID in the request body. The endpoint 
+        supports both authorized and unauthorized users. For authorized users, 
+        the request must include the Authorization header, while unauthorized 
+        users should include a Cookie header. The endpoint responds with a 
+        confirmation message upon successful addition to the favorites list.
+      parameters:
+        - name: Cookie
+          in: header
+          required: false
+          schema:
+            type: string
+          description: Cookie header for unauthorized users.
+        - name: Authorization
+          in: header
+          required: false
+          schema:
+            type: string
+          description: Authorization header for authorized users.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                laptop_id:
+                  type: string
+              required:
+                - laptop_id
+      responses:
+        '200':
+          description: Successfully added the laptop to favorites
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '400':
+          description: Bad Request - Invalid request format
 components:
   schemas:
     ArticleModel:
