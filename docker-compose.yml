@@ -12,8 +12,10 @@ services:
   specs-micro:
     build: specs-micro/
     container_name: lappy-specs
+    command: supervisord -c ./supervisord.conf
     ports:
       - '8001:8001'
+      - '9001:9001'
     networks:
       - 'lappy_network'
     depends_on:
