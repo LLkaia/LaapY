@@ -594,6 +594,77 @@ paths:
                     type: string
         '400':
           description: Bad Request - Invalid request format
+  /laptops:
+    get:
+      tags:
+        - Laptops
+      summary: Get list of laptops by filter patameters
+      description: |-
+        Get items with specifications based on optional filter parameters
+      parameters:
+        - name: producer
+          in: query
+          required: false
+          schema:
+            type: string
+            title: Producer
+          description: Producer of a laptop
+        - name: series
+          in: query
+          required: false
+          schema:
+            type: string
+            title: Series
+          description: Series of a laptop
+        - name: cpu
+          in: query
+          required: false
+          schema:
+            type: string
+            title: cpu
+          description: Name of processor used in a laptop
+        - name: gpu
+          in: query
+          required: false
+          schema:
+            type: string
+            title: gpu
+          description: Name of graphics card used in a laptop
+        - name: displaysize
+          in: query
+          required: false
+          schema:
+            type: string
+            title: gpu
+          description: Diagonal of a display
+        - name: page
+          in: query
+          required: false
+          schema:
+            type: integer
+            title: page
+          description: Page number used for pagination of results
+      responses:
+        '200':
+          description: Successful Response
+  /laptops/{id}:
+    get:
+      tags:
+        - Laptops
+      summary: Get info about specific laptop
+      description: |-
+        Get document wit aggregated information about specific laptop
+        including specifications, news, accesories, rating
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            title: id
+      responses:
+        '200':
+          description: Successful Response
 components:
   schemas:
     ArticleModel:
